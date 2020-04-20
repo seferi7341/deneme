@@ -12,4 +12,4 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1587417461/ei/F
 #EXTINF:-1,TR: NTV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1587418555/ei/W8GdXvyFBJmfgQejhIuAAw/ip/212.252.168.253/id/XEJM4Hcgd3M.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIhAPtFg-aP0JWeTd3ExIsTbkZCbsofx_-mGK3kfEhRCcMnAiA2ldoM9PHSmIqgQlkbXRPv_YqCyg7NU144PciW6HzHTg%3D%3D/file/index.m3u8
 #EXTINF:-1,TR: CNN TURK
-https://cdn.dogannet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8?e=5dce6592bf2144232801de50
+https://cdn.dogannet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8?e =5dce6592bf2144232801de50
