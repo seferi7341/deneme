@@ -2,7 +2,13 @@
 #EXTINF:-1,TR: SİNE VİD
 http://35.242.240.252:1935/live/sinevid/playlist.m3u8
 #EXTINF:-1,TR: FOX TV
-https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8?st=fXO5CX8hwvkF-1qbHhOLTg&e=1587402434
+ source : [
+	        {
+	            videoSrc : 'https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8?st=7iAAujo3QVHMw1Lh-9jsfA&e=1587405135',
+	            videoType : 'application/x-mpegURL',
+	            videoLabel : '720',
+	        }
+	    ],
 #EXTINF:-1,TR: SHOW TV
 https:\/\/ciner-live.ercdn.net\/showtv-aes\/playlist.m3u8?e=1587405834&st=1aHvt9Yt3DlZtuVs4rJ6Kg&tv=1
 #EXTINF:-1,TR: KANAL D
