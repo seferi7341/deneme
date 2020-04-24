@@ -7,8 +7,12 @@ https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
 #EXTINF:-1,TR: KANAL D
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
+#EXTINF:-1,TR: TRT 1
+https://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TR: A2TV
 https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/playlist.m3u8
+#EXTINF:-1,TR: TV TURK
+https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1,TR:KRAL TV
 http://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
 #EXTINF:-1,TR:BELGESEL
@@ -17,5 +21,15 @@ http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist_w120871004.m3u8
 http://s01.vpis.io/dogustv/dogustv.m3u8
 #EXTINF:-1,TR:DREAM TV
 https://mn-nl.mncdn.com/blutv_dream/smil:dream_sd.smil/playlist.m3u8
+#EXTINF:-1,TR:METRO TV
+http://metrotv.garantisistem.com:1935/metrotv/metrohd/chunklist.m3u8
 #EXTINF:-1,TR:KRAL POP
 http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1,TR:TV 8
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/playlist.m3u8
+#EXTINF:-1,TR:TV 4 KARAMEL
+https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
+#EXTINF:-1,TR:TRT COCUK
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TR:İSTANBUL TV
+http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8
