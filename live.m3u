@@ -17,16 +17,10 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 http://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
 #EXTINF:-1,TR:BELGESEL
 http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist_w120871004.m3u8
-#EXTINF:-1,TR:DOĞUŞ TV
-http://s01.vpis.io/dogustv/dogustv.m3u8
 #EXTINF:-1,TR:DREAM TV
 https://mn-nl.mncdn.com/blutv_dream/smil:dream_sd.smil/playlist.m3u8
-#EXTINF:-1,TR:METRO TV
-http://metrotv.garantisistem.com:1935/metrotv/metrohd/chunklist.m3u8
 #EXTINF:-1,TR:KRAL POP
 http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
-#EXTINF:-1,TR:TV 8
-https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/playlist.m3u8
 #EXTINF:-1,TR:TV 4 KARAMEL
 https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
 #EXTINF:-1,TR:TRT COCUK
