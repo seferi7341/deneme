@@ -2,7 +2,7 @@
 #EXTINF:-1,TR: SİNE VİD
 http://35.242.240.252:1935/live/sinevid/playlist.m3u8
 #EXTINF:-1,TR: FOX TV
-http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
 #EXTINF:-1,TR: SHOW TV
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
 #EXTINF:-1,TR: KANAL D
