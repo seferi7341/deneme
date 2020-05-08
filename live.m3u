@@ -5,6 +5,8 @@ http://sinevid.camdvr.org:1935/live/sinevid/playlist.m3u8
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1,TR: TLC
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
+#EXTINF:-1,D MAX HD 
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1828000_sltur.m3u8
 #EXTINF:-1,TR: FOX TV
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
 #EXTINF:-1,TR: SHOW TV
@@ -13,14 +15,26 @@ https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
 #EXTINF:-1,TR: STAR TV
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1,TR: TRT 1
-https://tv-trt1.live.trt.com.tr/master.m3u8
-#EXTINF:-1,TR:TV8
-http://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1,TR.ATV HD
+http://dsip.xyz:8080/freepanel/ulusal/11119
 #EXTINF:-1,TR: A2TV
 https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/playlist.m3u8
+#EXTINF:-1,TR: TRT 1
+https://tv-trt1.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TR.TV8 HD
+http://dsip.xyz:8080/freepanel/ulusal/11040
+#EXTINF:-1,TR.TV8.5 HD
+http://dsip.xyz:8080/freepanel/ulusal/12956
+#EXTINF:-1,TR:CNNTURK
+http://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1,TR.HALK TV
+http://dsip.xyz:8080/freepanel/ulusal/11088
 #EXTINF:-1,TR: NTV
 http://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
+#EXTINF:-1,TRT HABER HD
+http://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1,HABERTURK HD
+http://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1,TR:KRAL TV
 http://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
 #EXTINF:-1,TR:KRAL POP
@@ -37,8 +51,51 @@ https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TR:A SPOR
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
+#EXTINF:-1,2beIN FUTBOL HD 
+http://46.105.233.106:8283/ntvspor.ts
 #EXTINF:-1,TR:İBB TV
 http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8
 #EXTINF:-1,TR:UCANKUS TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-
+#EXTINF:-1,TRT Spor HD
+https://mn-nl.mncdn.com/blutv_trtspor/smil:trtspor_hd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,SUPER LIG TV HD
+http://46.105.233.106:8283/hls/ntvspor/playlist.m3u8
+#EXTINF:-1,TR: National Geographic Turk
+http://195.181.161.111:80/dBARFycSW8/03PqqO6AJV/5681
+#EXTINF:-1,TR: NatGeo Wild Turk
+http://195.181.161.111:80/dBARFycSW8/03PqqO6AJV/5680
+#EXTINF:-1,TR: MINICA GO
+http://195.181.161.111:80/dBARFycSW8/03PqqO6AJV/5683
+#EXTINF:-1,TR: DISNEY JR
+http://195.181.161.111:80/dBARFycSW8/03PqqO6AJV/5682
+#EXTINF:-1,TR: Bein Sport HD1
+http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/4110
+#EXTINF:-1,TR: Bein Sport HD2
+http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/4111
+#EXTINF:-1,TR: Bein Sport HD3
+http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/4112
+#EXTINF:-1,TR: Bein Sport HD4
+http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/4113
+#EXTINF:-1,TR: Tivibu Sport 1
+http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/2269
+#EXTINF:-1,TR: Tivibu Sport 2
+http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/2285
+#EXTINF:-1,TR: SMART SPOR HD1
+http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/6092
+#EXTINF:-1,TR: S SPORT HD
+http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/6093
+#EXTINF:-1,TR: DIGIMAX 2
+http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/3746
+#EXTINF:-1,TR: DIGIMAX ANIMASYON HD
+http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/3747
+#EXTINF:-1,TR: DIGIMAX 1
+http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/3745
+#EXTINF:-1,TR: SALON 3
+http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/3750
+#EXTINF:-1,TR: SALON 2 HD
+http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/3749
+#EXTINF:-1,TR: SALON 1 HD
+http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/3748
+#EXTINF:-1,TR: PLANET COCUK
+http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/3741
