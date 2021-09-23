@@ -49,42 +49,146 @@ http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist_w120871004.m3u8
 https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
 #EXTINF:-1,TR:TRT COCUK
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1,TR:A SPOR
-https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
-#EXTINF:-1,2beIN FUTBOL HD 
-http://46.105.233.106:8283/ntvspor.ts
-#EXTINF:-1,TR:İBB TV
-http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8
-#EXTINF:-1,TR:UCANKUS TV
-https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-#EXTINF:-1,TRT Spor HD
-https://mn-nl.mncdn.com/blutv_trtspor/smil:trtspor_hd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1,SUPER LIG TV HD
-http://46.105.233.106:8283/hls/ntvspor/playlist.m3u8
-#EXTINF:-1,TR: National Geographic Turk
-http://195.181.161.111:80/dBARFycSW8/03PqqO6AJV/5681
-#EXTINF:-1,TR: NatGeo Wild Turk
-http://195.181.161.111:80/dBARFycSW8/03PqqO6AJV/5680
-#EXTINF:-1,TR: MINICA GO
-http://195.181.161.111:80/dBARFycSW8/03PqqO6AJV/5683
-#EXTINF:-1,TR: DISNEY JR
-http://195.181.161.111:80/dBARFycSW8/03PqqO6AJV/5682
-#EXTINF:-1,TR: Bein Sport HD1
-http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/4110
-#EXTINF:-1,TR: Bein Sport HD2
-http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/4111
-#EXTINF:-1,TR: Bein Sport HD3
-http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/4112
-#EXTINF:-1,TR: Bein Sport HD4
-http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/4113
-#EXTINF:-1,TR: Tivibu Sport 1
-http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/2269
-#EXTINF:-1,TR: Tivibu Sport 2
-http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/2285
-#EXTINF:-1,TR: SMART SPOR HD1
-http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/6092
+#EXTINF:-1,TR: BEIN SPORTS HABER HD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/129036
+#EXTINF:-1,TR: BEIN SPORTS 1 FHD (HQ)
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/138606
+#EXTINF:-1,TR: BEIN SPORTS 1 FHD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/269058
+#EXTINF:-1,TR: BEIN SPORTS 1 HEVC
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/224566
+#EXTINF:-1,TR: BEIN SPORTS 1 HD (LQ)
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/6046
+#EXTINF:-1,TR: BEIN SPORTS 1 HD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/123295
+#EXTINF:-1,TR: BEIN SPORTS 1 HD (MAC ZAMANI)
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/189369
+#EXTINF:-1,TR: BEIN SPORTS 1 FHD (MAC ZAMANI)
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/299611
+#EXTINF:-1,TR: BEIN SPORTS 1 4K - UHD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/269994
+#EXTINF:-1,TR: BEIN SPORTS 1 SD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/138607
+#EXTINF:-1,TR: BEIN SPORTS 1 HD (MAC ZAMANI)*
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/374534
+#EXTINF:-1,TR: BEIN SPORTS 2 HEVC
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/177939
+#EXTINF:-1,TR: BEIN SPORTS 2 HD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/631
+#EXTINF:-1,TR: BEIN SPORTS 2 FHD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/7595
+#EXTINF:-1,TR: BEIN SPORTS 2 FHD (MAC ZAMANI)
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/294661
+#EXTINF:-1,TR: BEIN SPORTS 2 SD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/371296
+#EXTINF:-1,TR: BEIN SPORTS 2 HD (MAC ZAMANI)
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/371295
+#EXTINF:-1,TR: BEIN SPORTS 3 HEVC
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/177940
+#EXTINF:-1,TR: BEIN SPORTS 3 HD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/162816
+#EXTINF:-1,TR: BEIN SPORTS 3 FHD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/7596
+#EXTINF:-1,TR: BEIN SPORTS 3 SD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/294662
+#EXTINF:-1,TR: BEIN SPORTS 4 HD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/123298
+#EXTINF:-1,TR: BEIN SPORTS 4 FHD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/7597
+#EXTINF:-1,TR: BEIN SPORTS 4 SD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/294663
+#EXTINF:-1,TR: BEIN SPORTS MAX 1 HD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/114448
+#EXTINF:-1,TR: BEIN SPORTS MAX 1  FHD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/162818
+#EXTINF:-1,TR: BEIN SPORTS MAX 2 HD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/114449
+#EXTINF:-1,TR: BEIN SPORTS MAX 2  FHD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/162819
+#EXTINF:-1,TR: BEIN CONNECT HD 1 (MAC ZAMANI)
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/350292
+#EXTINF:-1,TR: BEIN CONNECT HD 2 (MAC ZAMANI)
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/350291
+#EXTINF:-1,TR: BEIN CONNECT HD 3 (MAC ZAMANI)
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/350290
+#EXTINF:-1,TR: BEIN CONNECT HD 4 (MAC ZAMANI)
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/350289
+#EXTINF:-1,TR: BEIN CONNECT HD 5 (MAC ZAMANI)
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/350288
+#EXTINF:-1,TR: BEIN CONNECT HD 6 (MAC ZAMANI)
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/350287
+#EXTINF:-1,TR: SPOR SMART HD*
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/286779
+#EXTINF:-1,TR: SPOR SMART HD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/92363
+#EXTINF:-1,TR: SPOR SMART FHD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/6050
+#EXTINF:-1,TR: SPOR SMART 2 HD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/236111
 #EXTINF:-1,TR: S SPORT HD
-http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/6093
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/285910
+#EXTINF:-1,TR: S SPORT FHD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/115503
+#EXTINF:-1,TR: S SPORT 2 HD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/193396
+#EXTINF:-1,TR: S SPORT 2 FHD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/299043
+#EXTINF:-1,TR: S SPORT+ 1 FHD (MAC ZAMANI)
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/371289
+#EXTINF:-1,TR: S SPORT+ 2 FHD (MAC ZAMANI)
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/371288
+#EXTINF:-1,TR: S SPORT+ 3 FHD (MAC ZAMANI)
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/371287
+#EXTINF:-1,TR: S SPORT+ 4 FHD (MAC ZAMANI)
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/371286
+#EXTINF:-1,TR: S SPORT+ 5 FHD (MAC ZAMANI)
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/371285
+#EXTINF:-1,TR: S SPORT+ 6 FHD (MAC ZAMANI)
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/371284
+#EXTINF:-1,TR: EXXEN SPORT 1 FHD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/371283
+#EXTINF:-1,TR: EXXEN SPORT 1 HD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/299610
+#EXTINF:-1,TR: EXXEN SPORT 1 SD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/369337
+#EXTINF:-1,TR: EXXEN SPORT 2 FHD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/371282
+#EXTINF:-1,TR: EXXEN SPORT 2 HD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/369335
+#EXTINF:-1,TR: EXXEN SPORT 3 FHD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/371281
+#EXTINF:-1,TR: EXXEN SPORT 3 HD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/369336
+#EXTINF:-1,TR: EXXEN SPORT 4 FHD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/378875
+#EXTINF:-1,TR: EXXEN SPORT 4 HD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/378874
+#EXTINF:-1,TR: EXXEN SPORT 5 FHD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/378873
+#EXTINF:-1,TR: EXXEN SPORT 5 HD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/378872
+#EXTINF:-1,TR: EXXEN SPORT 6 FHD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/378871
+#EXTINF:-1,TR: EXXEN SPORT 6 HD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/378870
+#EXTINF:-1,TR: EXXEN SPORT 7 FHD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/379740
+#EXTINF:-1,TR: EXXEN SPORT 7 HD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/378877
+#EXTINF:-1,TR: EXXEN SPORT 8 FHD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/379739
+#EXTINF:-1,TR: EXXEN SPORT 8 HD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/378876
+#EXTINF:-1,TR: TIVIBU SPOR HD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/1468
+#EXTINF:-1,TR: TIVIBU SPOR 2 HD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/6049
+#EXTINF:-1,TR: TIVIBU SPOR 3 HD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/198443
+#EXTINF:-1,TR: SPORTS TV
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/2105
+#EXTINF:-1,TR: NBA HD
+http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/13245
 #EXTINF:-1,TR: DIGIMAX 2
 http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/3746
 #EXTINF:-1,TR: DIGIMAX ANIMASYON HD
