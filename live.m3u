@@ -1,6 +1,88 @@
 #EXTM3U
 #EXTINF:-1,TR: TiVi TURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1,[TR] GS TV
+http://visionmedaitv.nl:7444/live/YemisimNetini372jd/gtuvgNMee7/79.ts
+#EXTINF:-1,[TR] SmartSPOR HD
+http://visionmedaitv.nl:7444/live/YemisimNetini372jd/gtuvgNMee7/74.ts
+#EXTINF:-1,Konya TV42
+http://visionmedaitv.nl:7444/live/YemisimNetini372jd/gtuvgNMee7/1242.ts
+#EXTINF:-1,[TR] beIN SPORTS 4K
+http://visionmedaitv.nl:7444/live/YemisimNetini372jd/gtuvgNMee7/63.ts
+#EXTINF:-1,[TR] beIN SPORTS HD
+http://visionmedaitv.nl:7444/live/YemisimNetini372jd/gtuvgNMee7/67.ts
+#EXTINF:-1,[TR] beIN SPORT 2 HD
+http://visionmedaitv.nl:7444/live/YemisimNetini372jd/gtuvgNMee7/68.ts
+#EXTINF:-1,[TR] beIN SPORTS 3 HD
+http://visionmedaitv.nl:7444/live/YemisimNetini372jd/gtuvgNMee7/69.ts
+#EXTINF:-1,[TR] beIN SPORTS 4 HD
+http://visionmedaitv.nl:7444/live/YemisimNetini372jd/gtuvgNMee7/70.ts
+#EXTINF:-1,(TR) Fox Crime 4K+
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55012
+#EXTINF:-1,(TR) Moviesmart Action 4K+
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55013
+#EXTINF:-1,(TR) Moviesmart Family 4K+
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55014
+#EXTINF:-1,(TR) Moviesmart Gold 4K+
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55015
+#EXTINF:-1,(TR) Moviesmart Platin 4K+
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55016
+#EXTINF:-1,(TR) Moviesmart Premium 4K+
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55017
+#EXTINF:-1,(TR) Moviesmart Turk 4K+
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55018
+#EXTINF:-1,(TR) Moviesmart Cocuk 4K+
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55019
+#EXTINF:-1,(TR) DiziSmart Premium 4K+
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55020
+#EXTINF:-1,(TR) Sinema TV 1002 4K+
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55021
+#EXTINF:-1,(TR) Sinema TV 4K+
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55022
+#EXTINF:-1,(TR) Sinema TV 2 4K+
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55023
+#EXTINF:-1,(TR) Sinema TV 1001 4K+
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55024
+#EXTINF:-1,(TR) Sinema TV Aile 4K+
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55025
+#EXTINF:-1,(TR) Sinema TV Aksiyon 4K+
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55026
+#EXTINF:-1,(TR) Moviesmart Premium 2 4K+
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55027
+#EXTINF:-1,(TR) Moviesmart Platin 2 4K+
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55028
+#EXTINF:-1,(TR) Moviesmart Fest 4K+
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55029
+#EXTINF:-1,(TR) Moviesmart Classic 4K+
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55030
+#EXTINF:-1,(TR) Loca 1 4K+
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55031
+#EXTINF:-1,(TR) Loca 2 4K+
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55032
+#EXTINF:-1,(TR) Loca 3 4K+
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55033
+#EXTINF:-1,TR: BBC Earth HD
+http://new-pro.tv:8080/Aqifii/VDkysv7n60/15928
+#EXTINF:-1,TR: Disney Junior HD
+http://new-pro.tv:8080/Aqifii/VDkysv7n60/15917
+#EXTINF:-1,TR: Vatan TV
+http://new-pro.tv:8080/Aqifii/VDkysv7n60/28263
+#EXTINF:-1,TR: BeIN Sports 1 HD
+http://new-pro.tv:8080/Aqifii/VDkysv7n60/33497
+#EXTINF:-1,TR: BeIN Sports 2 HD
+http://new-pro.tv:8080/Aqifii/VDkysv7n60/33498
+#EXTINF:-1,TR: BeIN Sports 3 HD
+http://new-pro.tv:8080/Aqifii/VDkysv7n60/33499
+#EXTINF:-1,TR: BeIN Sports 4 HD
+http://new-pro.tv:8080/Aqifii/VDkysv7n60/33500
+#EXTINF:-1,TR: BeIN Sports Max 1 HD
+http://new-pro.tv:8080/Aqifii/VDkysv7n60/33501
+#EXTINF:-1,TR: BeIN Sports Max 2 HD
+http://new-pro.tv:8080/Aqifii/VDkysv7n60/33502
+#EXTINF:-1,TR: BeIN Sports 1 4K
+http://new-pro.tv:8080/Aqifii/VDkysv7n60/33503
+#EXTINF:-1,TR: History HD
+http://new-pro.tv:8080/Aqifii/VDkysv7n60/58632
 #EXTINF:-1,TR: BLU TV AKSIYON HD
 http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/368289
 #EXTINF:-1,TR: BLU TV KOMEDI HD
