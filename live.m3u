@@ -3,355 +3,123 @@
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1,[TR] GS TV
 http://visionmedaitv.nl:7444/live/YemisimNetini372jd/gtuvgNMee7/79.ts
-#EXTINF:-1,[TR] SmartSPOR HD
-http://visionmedaitv.nl:7444/live/YemisimNetini372jd/gtuvgNMee7/74.ts
-#EXTINF:-1,Konya TV42
-http://visionmedaitv.nl:7444/live/YemisimNetini372jd/gtuvgNMee7/1242.ts
-#EXTINF:-1,[TR] beIN SPORTS 4K
-http://visionmedaitv.nl:7444/live/YemisimNetini372jd/gtuvgNMee7/63.ts
-#EXTINF:-1,[TR] beIN SPORTS HD
-http://visionmedaitv.nl:7444/live/YemisimNetini372jd/gtuvgNMee7/67.ts
-#EXTINF:-1,[TR] beIN SPORT 2 HD
-http://visionmedaitv.nl:7444/live/YemisimNetini372jd/gtuvgNMee7/68.ts
-#EXTINF:-1,[TR] beIN SPORTS 3 HD
-http://visionmedaitv.nl:7444/live/YemisimNetini372jd/gtuvgNMee7/69.ts
-#EXTINF:-1,[TR] beIN SPORTS 4 HD
-http://visionmedaitv.nl:7444/live/YemisimNetini372jd/gtuvgNMee7/70.ts
-#EXTINF:-1,(TR) Fox Crime 4K+
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55012
-#EXTINF:-1,(TR) Moviesmart Action 4K+
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55013
-#EXTINF:-1,(TR) Moviesmart Family 4K+
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55014
-#EXTINF:-1,(TR) Moviesmart Gold 4K+
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55015
-#EXTINF:-1,(TR) Moviesmart Platin 4K+
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55016
-#EXTINF:-1,(TR) Moviesmart Premium 4K+
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55017
-#EXTINF:-1,(TR) Moviesmart Turk 4K+
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55018
-#EXTINF:-1,(TR) Moviesmart Cocuk 4K+
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55019
-#EXTINF:-1,(TR) DiziSmart Premium 4K+
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55020
-#EXTINF:-1,(TR) Sinema TV 1002 4K+
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55021
-#EXTINF:-1,(TR) Sinema TV 4K+
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55022
-#EXTINF:-1,(TR) Sinema TV 2 4K+
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55023
-#EXTINF:-1,(TR) Sinema TV 1001 4K+
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55024
-#EXTINF:-1,(TR) Sinema TV Aile 4K+
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55025
-#EXTINF:-1,(TR) Sinema TV Aksiyon 4K+
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55026
-#EXTINF:-1,(TR) Moviesmart Premium 2 4K+
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55027
-#EXTINF:-1,(TR) Moviesmart Platin 2 4K+
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55028
-#EXTINF:-1,(TR) Moviesmart Fest 4K+
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55029
-#EXTINF:-1,(TR) Moviesmart Classic 4K+
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55030
-#EXTINF:-1,(TR) Loca 1 4K+
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55031
-#EXTINF:-1,(TR) Loca 2 4K+
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55032
-#EXTINF:-1,(TR) Loca 3 4K+
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55033
-#EXTINF:-1,TR: BBC Earth HD
-http://new-pro.tv:8080/Aqifii/VDkysv7n60/15928
-#EXTINF:-1,TR: Disney Junior HD
-http://new-pro.tv:8080/Aqifii/VDkysv7n60/15917
-#EXTINF:-1,TR: Vatan TV
-http://new-pro.tv:8080/Aqifii/VDkysv7n60/28263
-#EXTINF:-1,TR: BeIN Sports 1 HD
-http://new-pro.tv:8080/Aqifii/VDkysv7n60/33497
-#EXTINF:-1,TR: BeIN Sports 2 HD
-http://new-pro.tv:8080/Aqifii/VDkysv7n60/33498
-#EXTINF:-1,TR: BeIN Sports 3 HD
-http://new-pro.tv:8080/Aqifii/VDkysv7n60/33499
-#EXTINF:-1,TR: BeIN Sports 4 HD
-http://new-pro.tv:8080/Aqifii/VDkysv7n60/33500
-#EXTINF:-1,TR: BeIN Sports Max 1 HD
-http://new-pro.tv:8080/Aqifii/VDkysv7n60/33501
-#EXTINF:-1,TR: BeIN Sports Max 2 HD
-http://new-pro.tv:8080/Aqifii/VDkysv7n60/33502
-#EXTINF:-1,TR: BeIN Sports 1 4K
-http://new-pro.tv:8080/Aqifii/VDkysv7n60/33503
-#EXTINF:-1,TR: History HD
-http://new-pro.tv:8080/Aqifii/VDkysv7n60/58632
-#EXTINF:-1,TR: BLU TV AKSIYON HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/368289
-#EXTINF:-1,TR: BLU TV KOMEDI HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/368288
-#EXTINF:-1,TR: CINE OFFICE 1 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/202694
-#EXTINF:-1,TR: CINE OFFICE 2 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/202693
-#EXTINF:-1,TR: CINE OFFICE 3 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/202692
-#EXTINF:-1,TR: CINE OFFICE 4 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/202690
-#EXTINF:-1,TR: CINE OFFICE 5 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/202689
-#EXTINF:-1,TR: CINE OFFICE 6 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/202688
-#EXTINF:-1,TR: CINE OFFICE 7 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/202687
-#EXTINF:-1,TR: CINE OFFICE 8 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/202686
-#EXTINF:-1,TR: CINE OFFICE 9 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/202685
-#EXTINF:-1,TR: CINE OFFICE 10 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/202676
-#EXTINF:-1,TR: CINE OFFICE 11 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/202683
-#EXTINF:-1,TR: CINE OFFICE 12 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/202684
-#EXTINF:-1,TR: CINE OFFICE 13 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/202680
-#EXTINF:-1,TR: CINE OFFICE 14 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/202679
-#EXTINF:-1,TR: CINE OFFICE 15 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/202678
-#EXTINF:-1,TR: CINE OFFICE 16 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/202677
-#EXTINF:-1,TR: CINE OFFICE 17 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/202675
-#EXTINF:-1,TR: CINE OFFICE 18 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/202669
-#EXTINF:-1,TR: CINE OFFICE 19 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/201418
-#EXTINF:-1,TR: CINE OFFICE 20 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/202663
-#EXTINF:-1,TR: VIP NEOCINE AKSIYON
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318439
-#EXTINF:-1,TR: VIP NEOCINE CHARLIE CHAPLIN
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318438
-#EXTINF:-1,TR: VIP NEOCINE CHRISTMAS
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318437
-#EXTINF:-1,TR: VIP NEOCINE COCUK
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318436
-#EXTINF:-1,TR: VIP NEOCINE FANTASTIK
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318435
-#EXTINF:-1,TR: VIP NEOCINE GOLD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318434
-#EXTINF:-1,TR: VIP NEOCINE KARATE
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318433
-#EXTINF:-1,TR: VIP NEOCINE KOMEDI
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318432
-#EXTINF:-1,TR: VIP NEOCINE KORKU
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318431
-#EXTINF:-1,TR: VIP NEOCINE MARVEL STUDIOS
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318430
-#EXTINF:-1,TR: VIP NEOCINE MATRIX
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318429
-#EXTINF:-1,TR: VIP NEOCINE NETFLIX
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318428
-#EXTINF:-1,TR: VIP NEOCINE SIYAHBEYAZ
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318427
-#EXTINF:-1,TR: VIP NEOCINE KEMALSUNAL
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318426
-#EXTINF:-1,TR: VIP NEOCINE TESTERE
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318425
-#EXTINF:-1,TR: VIP NEOCINE TURK
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318424
-#EXTINF:-1,TR: VIP NEOCINE WESTERN
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318423
-#EXTINF:-1,TR: VIP NEOCINE YESILCAM
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318422
-#EXTINF:-1,TR: VIP NEOCINE ZOR ÖLÜM
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318421
-#EXTINF:-1,TR: VIP FILMBOX HD AKSIYON
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318419
-#EXTINF:-1,TR: VIP FILMBOX HD FANTASTIK
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318416
-#EXTINF:-1,TR: VIP FILMBOX HD DRAM
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318415
-#EXTINF:-1,TR: VIP FILMBOX HD KOMEDI
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318413
-#EXTINF:-1,TR: VIP FILMBOX HD KORKU
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318412
-#EXTINF:-1,TR: VIP FILMBOX HD YESILCAM
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/318409
-#EXTINF:-1,TR: MAX HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/329696
-#EXTINF:-1,TR: MAX UHD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/329697
-#EXTINF:-1,TR: MAX 007 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/145095
-#EXTINF:-1,TR: MAX AKSIYON 1 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/145094
-#EXTINF:-1,TR: MAX AKSIYON 2 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/145084
-#EXTINF:-1,TR: MAX ANIMASYON 2 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/145093
-#EXTINF:-1,TR: MAX ANIMASYON 1 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/145092
-#EXTINF:-1,TR: MAX GOLD HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/145090
-#EXTINF:-1,TR: MAX KINO COLLECTION HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/145091
-#EXTINF:-1,TR: MAX PLUS HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/145089
-#EXTINF:-1,TR: MAX PREMIER HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/145088
-#EXTINF:-1,TR: MAX STAR WARS HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/145087
-#EXTINF:-1,TR: MAX TURK HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/145086
-#EXTINF:-1,TR: MAX VIZYON 1 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/202636
-#EXTINF:-1,TR: MAX VIZYON 2 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/145085
-#EXTINF:-1,TR: MAX VIZYON 3 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/145083
-#EXTINF:-1,TR: MAX VIZYON 4 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/145103
-#EXTINF:-1,TR: MAX WESTERN HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/145082
-#EXTINF:-1,TR:TRT COCUK
-https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1,TR: BEIN SPORTS HABER HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/129036
-#EXTINF:-1,TR: BEIN SPORTS 1 FHD (HQ)
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/138606
-#EXTINF:-1,TR: BEIN SPORTS 1 FHD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/269058
-#EXTINF:-1,TR: BEIN SPORTS 1 HEVC
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/224566
-#EXTINF:-1,TR: BEIN SPORTS 1 HD (LQ)
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/6046
-#EXTINF:-1,TR: BEIN SPORTS 1 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/123295
-#EXTINF:-1,TR: BEIN SPORTS 1 HD (MAC ZAMANI)
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/189369
-#EXTINF:-1,TR: BEIN SPORTS 1 FHD (MAC ZAMANI)
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/299611
-#EXTINF:-1,TR: BEIN SPORTS 1 4K - UHD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/269994
-#EXTINF:-1,TR: BEIN SPORTS 1 SD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/138607
-#EXTINF:-1,TR: BEIN SPORTS 1 HD (MAC ZAMANI)*
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/374534
-#EXTINF:-1,TR: BEIN SPORTS 2 HEVC
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/177939
-#EXTINF:-1,TR: BEIN SPORTS 2 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/631
-#EXTINF:-1,TR: BEIN SPORTS 2 FHD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/7595
-#EXTINF:-1,TR: BEIN SPORTS 2 FHD (MAC ZAMANI)
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/294661
-#EXTINF:-1,TR: BEIN SPORTS 2 SD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/371296
-#EXTINF:-1,TR: BEIN SPORTS 2 HD (MAC ZAMANI)
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/371295
-#EXTINF:-1,TR: BEIN SPORTS 3 HEVC
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/177940
-#EXTINF:-1,TR: BEIN SPORTS 3 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/162816
-#EXTINF:-1,TR: BEIN SPORTS 3 FHD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/7596
-#EXTINF:-1,TR: BEIN SPORTS 3 SD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/294662
-#EXTINF:-1,TR: BEIN SPORTS 4 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/123298
-#EXTINF:-1,TR: BEIN SPORTS 4 FHD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/7597
-#EXTINF:-1,TR: BEIN SPORTS 4 SD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/294663
-#EXTINF:-1,TR: BEIN SPORTS MAX 1 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/114448
-#EXTINF:-1,TR: BEIN SPORTS MAX 1  FHD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/162818
-#EXTINF:-1,TR: BEIN SPORTS MAX 2 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/114449
-#EXTINF:-1,TR: BEIN SPORTS MAX 2  FHD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/162819
-#EXTINF:-1,TR: BEIN CONNECT HD 1 (MAC ZAMANI)
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/350292
-#EXTINF:-1,TR: BEIN CONNECT HD 2 (MAC ZAMANI)
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/350291
-#EXTINF:-1,TR: BEIN CONNECT HD 3 (MAC ZAMANI)
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/350290
-#EXTINF:-1,TR: BEIN CONNECT HD 4 (MAC ZAMANI)
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/350289
-#EXTINF:-1,TR: BEIN CONNECT HD 5 (MAC ZAMANI)
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/350288
-#EXTINF:-1,TR: BEIN CONNECT HD 6 (MAC ZAMANI)
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/350287
-#EXTINF:-1,TR: SPOR SMART HD*
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/286779
-#EXTINF:-1,TR: SPOR SMART HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/92363
-#EXTINF:-1,TR: SPOR SMART FHD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/6050
-#EXTINF:-1,TR: SPOR SMART 2 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/236111
-#EXTINF:-1,TR: S SPORT HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/285910
-#EXTINF:-1,TR: S SPORT FHD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/115503
-#EXTINF:-1,TR: S SPORT 2 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/193396
-#EXTINF:-1,TR: S SPORT 2 FHD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/299043
-#EXTINF:-1,TR: S SPORT+ 1 FHD (MAC ZAMANI)
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/371289
-#EXTINF:-1,TR: S SPORT+ 2 FHD (MAC ZAMANI)
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/371288
-#EXTINF:-1,TR: S SPORT+ 3 FHD (MAC ZAMANI)
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/371287
-#EXTINF:-1,TR: S SPORT+ 4 FHD (MAC ZAMANI)
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/371286
-#EXTINF:-1,TR: S SPORT+ 5 FHD (MAC ZAMANI)
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/371285
-#EXTINF:-1,TR: S SPORT+ 6 FHD (MAC ZAMANI)
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/371284
-#EXTINF:-1,TR: EXXEN SPORT 1 FHD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/371283
-#EXTINF:-1,TR: EXXEN SPORT 1 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/299610
-#EXTINF:-1,TR: EXXEN SPORT 1 SD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/369337
-#EXTINF:-1,TR: EXXEN SPORT 2 FHD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/371282
-#EXTINF:-1,TR: EXXEN SPORT 2 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/369335
-#EXTINF:-1,TR: EXXEN SPORT 3 FHD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/371281
-#EXTINF:-1,TR: EXXEN SPORT 3 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/369336
-#EXTINF:-1,TR: EXXEN SPORT 4 FHD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/378875
-#EXTINF:-1,TR: EXXEN SPORT 4 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/378874
-#EXTINF:-1,TR: EXXEN SPORT 5 FHD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/378873
-#EXTINF:-1,TR: EXXEN SPORT 5 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/378872
-#EXTINF:-1,TR: EXXEN SPORT 6 FHD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/378871
-#EXTINF:-1,TR: EXXEN SPORT 6 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/378870
-#EXTINF:-1,TR: EXXEN SPORT 7 FHD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/379740
-#EXTINF:-1,TR: EXXEN SPORT 7 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/378877
-#EXTINF:-1,TR: EXXEN SPORT 8 FHD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/379739
-#EXTINF:-1,TR: EXXEN SPORT 8 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/378876
-#EXTINF:-1,TR: TIVIBU SPOR HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/1468
-#EXTINF:-1,TR: TIVIBU SPOR 2 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/6049
-#EXTINF:-1,TR: TIVIBU SPOR 3 HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/198443
-#EXTINF:-1,TR: SPORTS TV
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/2105
-#EXTINF:-1,TR: NBA HD
-http://wow.avm35-shop.com:8080/tAcUa6NGrd/mSyTAyd9dk/13245
+#EXTINF:-1,beIN Movies Turk HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5309
+#EXTINF:-1,BeIN Movies Stars HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5321
+#EXTINF:-1,beIN Movies Action HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5273
+#EXTINF:-1,beIN Movies Action 2 HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34924
+#EXTINF:-1,BeIN Movies  IZ HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5319
+#EXTINF:-1,beIN Series Vice
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5280
+#EXTINF:-1,beIN Series Comedy
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5286
+#EXTINF:-1,beIN Movies Family
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5310
+#EXTINF:-1,beIN Series Sci-Fi HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5279
+#EXTINF:-1,DIGI MAX HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5292
+#EXTINF:-1,DIZI SMART PREMIUM HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5303
+#EXTINF:-1,SINEMA TV YERLI 
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5329
+#EXTINF:-1,SINEMA TV AKSIYON
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5330
+#EXTINF:-1,MOVIE SMART TURK HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5296
+#EXTINF:-1,MOVIE SMART PREMIUM HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5297
+#EXTINF:-1,MOVIE SMART PREMIUM 2 HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5294
+#EXTINF:-1,Movies Smart Gold HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5312
+#EXTINF:-1,Movies Smart Action HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5308
+#EXTINF:-1,Movies Smart Platin 2 HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5316
+#EXTINF:-1,Movies Smart Family HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5311
+#EXTINF:-1,Movies Smart Classic HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5307
+#EXTINF:-1,MOVIE SMART FEST HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5293
+#EXTINF:-1,beIN Box Office 1
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34915
+#EXTINF:-1,beIN Box Office 2
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34916
+#EXTINF:-1,beIN Box Office 3
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34917
+#EXTINF:-1,SALON 1 
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34918
+#EXTINF:-1,SALON 2 
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34919
+#EXTINF:-1,SALON 3
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34920
+#EXTINF:-1,FiberBox Aksiyon HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34925
+#EXTINF:-1,FiberBox Animasyon HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34926
+#EXTINF:-1,FiberBox Dram HD 
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34927
+#EXTINF:-1,FiberBox Fantastik HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34928
+#EXTINF:-1,Filmbox Adrenalin FHD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34934
+#EXTINF:-1,Filmbox Aksiyon FHD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34933
+#EXTINF:-1,Filmbox Korku FHD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5302
+#EXTINF:-1,Filmbox Animasyon FHD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34932
+#EXTINF:-1,Filmbox Bilim Kurgu FHD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34931
+#EXTINF:-1,Filmbox Dram FHD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34930
+#EXTINF:-1,Filmbox Fantastik FHD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34929
+#EXTINF:-1,National Geographic HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5222
+#EXTINF:-1,National Geo Wild
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5318
+#EXTINF:-1,Animal Planet HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5220
+#EXTINF:-1,BBC EARTH
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34921
+#EXTINF:-1,VIASAT Explorer HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5331
+#EXTINF:-1,HISTORY CHANNEL.
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5219
+#EXTINF:-1,Discovery Channel.
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5218
+#EXTINF:-1,Minika Go
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5208
+#EXTINF:-1,Cartoon Network HD.
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5217
+#EXTINF:-1,Disney Channel.
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5216
+#EXTINF:-1,TRT Sports
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5260
+#EXTINF:-1,Smart Sport HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5264
+#EXTINF:-1,A SPORT HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/8949
+#EXTINF:-1,S SPORT 1 HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/41387
+#EXTINF:-1,beIN Sport 1 HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5272
+#EXTINF:-1,beIN Sport 2 HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5271
+#EXTINF:-1,beIN Sport 3 HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5270
+#EXTINF:-1,beIN Sport 4 HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/32649
+#EXTINF:-1,Tivibu Sport 1 HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5268
+#EXTINF:-1,Tivibu Sport 2 HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5267
+#EXTINF:-1,Tivibu Sport 3 HD
+http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5266
