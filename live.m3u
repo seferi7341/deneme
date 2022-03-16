@@ -1,125 +1,398 @@
 #EXTM3U
 #EXTINF:-1,TR: TiVi TURK
-https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1,[TR] GS TV
-http://visionmedaitv.nl:7444/live/YemisimNetini372jd/gtuvgNMee7/79.ts
-#EXTINF:-1,beIN Movies Turk HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5309
-#EXTINF:-1,BeIN Movies Stars HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5321
-#EXTINF:-1,beIN Movies Action HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5273
-#EXTINF:-1,beIN Movies Action 2 HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34924
-#EXTINF:-1,BeIN Movies  IZ HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5319
-#EXTINF:-1,beIN Series Vice
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5280
-#EXTINF:-1,beIN Series Comedy
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5286
-#EXTINF:-1,beIN Movies Family
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5310
-#EXTINF:-1,beIN Series Sci-Fi HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5279
-#EXTINF:-1,DIGI MAX HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5292
-#EXTINF:-1,DIZI SMART PREMIUM HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5303
-#EXTINF:-1,SINEMA TV YERLI 
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5329
-#EXTINF:-1,SINEMA TV AKSIYON
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5330
+#EXTINF:-1,BEiN SPORT-1 HD  (720P---PLAY)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234367
+#EXTINF:-1,BEiN SPORT-2 HD  (720P---PLAY)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234368
+#EXTINF:-1,BEiN SPORT-3 HD  (720P---PLAY)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234369
+#EXTINF:-1,BEiN SPORT-4 HD  (720P---PLAY)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234370
+#EXTINF:-1,BEiN SPORT MAX-1 HD (720P---PLAY)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234371
+#EXTINF:-1,BEiN SPORT MAX-2 HD (720P---PLAY)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234372
+#EXTINF:-1,BEIN SPORT HABER HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234373
+#EXTINF:-1,TIVIBUSPOR-1 HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234374
+#EXTINF:-1,TIVIBUSPOR-2 HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234375
+#EXTINF:-1,TIVIBUSPOR-3 HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234376
+#EXTINF:-1,S-SPORT 1 HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234377
+#EXTINF:-1,SPOR SMART HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234378
+#EXTINF:-1,NBA TV HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234379
+#EXTINF:-1,Bein Sport 1 HD (480p)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234380
+#EXTINF:-1,S-SPORT 2 HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234381
+#EXTINF:-1,EXXEN SPORT 1 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234382
+#EXTINF:-1,EXXEN SPORT 2 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234383
+#EXTINF:-1,EXXEN SPORT 3 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234384
+#EXTINF:-1,EXXEN SPORT 4 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234385
+#EXTINF:-1,EXXEN SPORT 5 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234386
+#EXTINF:-1,EXXEN SPORT 6 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234387
+#EXTINF:-1,EXXEN SPORT 7 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234388
+#EXTINF:-1,EXXEN SPORT 8 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234389
+#EXTINF:-1,EXXEN SPORT 1 SD  (480p)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234390
+#EXTINF:-1,GSTV HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234393
+#EXTINF:-1,FBTV HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234394
+#EXTINF:-1,SPORTSTV HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234395
+#EXTINF:-1,TJK TV HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234396
+#EXTINF:-1,ASPOR HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234397
+#EXTINF:-1,TRT SPOR HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234398
+#EXTINF:-1,TRT SPOR 2 HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234399
+#EXTINF:-1,TRT1 HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234400
+#EXTINF:-1,TRT 2 HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234401
+#EXTINF:-1,A2 HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234402
+#EXTINF:-1,ATV HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234403
+#EXTINF:-1,FOXTV HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234404
+#EXTINF:-1,BEYAZTV HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234405
+#EXTINF:-1,KANAL7 HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234406
+#EXTINF:-1,TV8 HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234407
+#EXTINF:-1,TV8.5 HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234408
+#EXTINF:-1,SHOWTV HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234409
+#EXTINF:-1,STARTV HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234410
+#EXTINF:-1,KANAL D HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234411
+#EXTINF:-1,SKYTURK360 HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234412
+#EXTINF:-1,TEVE 2 HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234413
+#EXTINF:-1,TELE 1 HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234414
+#EXTINF:-1,TV100 HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234415
+#EXTINF:-1,TLC HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234416
+#EXTINF:-1,TVNET HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234417
+#EXTINF:-1,ULKETV HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234418
+#EXTINF:-1,HALK TV HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234419
+#EXTINF:-1,KRT TV HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234420
+#EXTINF:-1,TRT TURK HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234421
+#EXTINF:-1,TRT HABER HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234422
+#EXTINF:-1,EKOTURK HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234423
+#EXTINF:-1,BLOOMBERGHT HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234424
+#EXTINF:-1,A PARA HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234425
+#EXTINF:-1,A HABER HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234426
+#EXTINF:-1,GLOBAL HABER HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234427
+#EXTINF:-1,CNN TURK HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234428
+#EXTINF:-1,HABERTURK HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234429
+#EXTINF:-1,NTV HABER HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234430
+#EXTINF:-1,TGRT HABER HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234431
+#EXTINF:-1,KANAL 24 HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234432
+#EXTINF:-1,TRT COCUK HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234433
+#EXTINF:-1,NICKELODEON HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234434
+#EXTINF:-1,NICK JR HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234435
+#EXTINF:-1,DISNEY CHANNEL HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234436
+#EXTINF:-1,DISNEY JR HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234437
+#EXTINF:-1,CBEEBiES (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234438
+#EXTINF:-1,DA VINCI KIDS HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234439
+#EXTINF:-1,BABY TV HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234440
+#EXTINF:-1,BOOMERANG HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234441
+#EXTINF:-1,CARTOON NETWORK HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234442
+#EXTINF:-1,MINICA GO HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234443
+#EXTINF:-1,MINIKA COCUK HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234444
+#EXTINF:-1,KRAL TV HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234445
+#EXTINF:-1,DREAM TURK HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234446
+#EXTINF:-1,NR1 TURK HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234447
+#EXTINF:-1,NR1 HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234448
+#EXTINF:-1,POWER TURK HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234449
+#EXTINF:-1,POWER TV HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234450
+#EXTINF:-1,YABAN TV HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234451
+#EXTINF:-1,TRT BELGESEL HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234452
+#EXTINF:-1,NAT GEO WiLD HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234453
+#EXTINF:-1,NATiONAL GEOGRAPHiC HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234454
+#EXTINF:-1,DiSCOWERY CHANNEL HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234455
+#EXTINF:-1,DiSCOWERY SCiENCE HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234456
+#EXTINF:-1,Discowery IDX HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234457
+#EXTINF:-1,BBC Earth HD (720)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234458
+#EXTINF:-1,HISTORY HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234459
+#EXTINF:-1,iZTV HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234460
+#EXTINF:-1,DMAX HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234461
+#EXTINF:-1,BEIN GURME HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234462
+#EXTINF:-1,BEiN MOVİES TURK HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234463
+#EXTINF:-1,BEiN BOX OFFiCE 1 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234464
+#EXTINF:-1,BEiN BOX OFFiCE 2 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234465
+#EXTINF:-1,BEIN BOX OFFiCE 3 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234466
+#EXTINF:-1,UCANKUS TV HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234467
+#EXTINF:-1,TRT EBA - iLKOKUL HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234468
+#EXTINF:-1,TRT EBA - ORTAOKUL HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234469
+#EXTINF:-1,TRT EBA - LiSE HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234470
+#EXTINF:-1,LOVE NATURE HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234471
+#EXTINF:-1,VIASAT EXPLORE HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234472
+#EXTINF:-1,TRT AVAZ HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234473
+#EXTINF:-1,ViASAT HiSTORY HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234474
+#EXTINF:-1,24 KiTCHEN HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234475
+#EXTINF:-1,SHOW MAX HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234476
+#EXTINF:-1,KRAL POP HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234477
+#EXTINF:-1,BNN TURK HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234478
+#EXTINF:-1,TIVIBUSPOR-4 HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234479
+#EXTINF:-1,FLASH TV HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234480
+#EXTINF:-1,ASPOR HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234481
+#EXTINF:-1,TRT SPOR HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234482
+#EXTINF:-1,TRT 4K (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234483
+#EXTINF:-1,TRT 1 HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234484
+#EXTINF:-1,TRT 2 HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234485
+#EXTINF:-1,ATV HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234486
+#EXTINF:-1,A2 HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234487
+#EXTINF:-1,SHOW TV HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234488
+#EXTINF:-1,KANAL D HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234489
+#EXTINF:-1,STAR TV HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234490
+#EXTINF:-1,FOX TV HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234491
+#EXTINF:-1,BEYAZ TV HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234492
+#EXTINF:-1,KANAL 7 HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234493
+#EXTINF:-1,TV 8 HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234494
+#EXTINF:-1,TV 8.5 HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234495
+#EXTINF:-1,SKYTURK360 HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234496
+#EXTINF:-1,TEVE 2 HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234497
+#EXTINF:-1,DMAX HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234498
+#EXTINF:-1,A NEWS HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234499
+#EXTINF:-1,APARA HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234500
+#EXTINF:-1,A HABER HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234501
+#EXTINF:-1,HABER GLOBAL HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234502
+#EXTINF:-1,TRT HABER HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234503
+#EXTINF:-1,TGRT HABER HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234504
+#EXTINF:-1,HABER TURK HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234505
+#EXTINF:-1,CNN TURK HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234506
+#EXTINF:-1,NTV HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234507
+#EXTINF:-1,BLOOMBERG HT HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234508
+#EXTINF:-1,ULKE TV HD (1080P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234509
+#EXTINF:-1,TRT MUZiK HD (720P)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234510
+#EXTINF:-1,TRT AVAZ HD (1080)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234511
+#EXTINF:-1,S-SPORT PLUS 1 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234512
+#EXTINF:-1,S-SPORT PLUS 2 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234513
+#EXTINF:-1,S-SPORT PLUS 3 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234514
+#EXTINF:-1,S-SPORT PLUS 4 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234515
+#EXTINF:-1,S-SPORT PLUS 5 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234516
+#EXTINF:-1,S-SPORT PLUS 6 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234517
+#EXTINF:-1,BEiN SPORT HABER HD (1920X1080)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234518
+#EXTINF:-1,BEIN SPORTS 1 HD ( MACTA FHDd )
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234519
+#EXTINF:-1,BEIN SPORTS 1 HD (1920x10800)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234520
+#EXTINF:-1,BEIN SPORTS 2 HD (1920X1080)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234521
+#EXTINF:-1,BEIN SPORTS 3 HD (1920X1080)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234522
+#EXTINF:-1,BEIN SPORTS 4 HD (1920X1080)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234523
+#EXTINF:-1,BEIN SPORTS MAX 1 HD (1920x1080)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234524
+#EXTINF:-1,BEIN SPORTS MAX 2 HD (1920x1080)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234525
+#EXTINF:-1,S-SPORT 1 HD (1920x1080)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234526
+#EXTINF:-1,S-SPORT 2 HD (1920X1080)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234527
+#EXTINF:-1,SPOR SMART 1 HD (1920x1080)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234528
+#EXTINF:-1,SPOR SMART 2 HD (1920X1080)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234529
+#EXTINF:-1,TiViBUSPOR 1 HD (1920X1080)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234530
+#EXTINF:-1,TiViBUSPOR 2 HD (1920X1080)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234531
+#EXTINF:-1,TiViBUSPOR 3 HD (1920X1080)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234532
+#EXTINF:-1,NBA TV HD (1920x1080)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234533
+#EXTINF:-1,beIN MOVIES TURK HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234534
+#EXTINF:-1,beIN MOVIES PREMIERE HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234535
+#EXTINF:-1,beIN MOVIES PREMIERE 2 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234536
+#EXTINF:-1,beIN MOVIES ACTION HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234537
+#EXTINF:-1,beIN MOVIES ACTION 2 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234538
+#EXTINF:-1,beIN MOVIES STARS HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234539
+#EXTINF:-1,beIN MOVIES FAMILY HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234540
+#EXTINF:-1,beIN SERIES COMEDY HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234541
+#EXTINF:-1,beIN SERIES DRAMA HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234542
+#EXTINF:-1,beIN SERIES VICE HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234543
+#EXTINF:-1,beIN SERIES SCI-FI HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234544
 #EXTINF:-1,MOVIE SMART TURK HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5296
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234545
 #EXTINF:-1,MOVIE SMART PREMIUM HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5297
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234546
 #EXTINF:-1,MOVIE SMART PREMIUM 2 HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5294
-#EXTINF:-1,Movies Smart Gold HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5312
-#EXTINF:-1,Movies Smart Action HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5308
-#EXTINF:-1,Movies Smart Platin 2 HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5316
-#EXTINF:-1,Movies Smart Family HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5311
-#EXTINF:-1,Movies Smart Classic HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5307
-#EXTINF:-1,MOVIE SMART FEST HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5293
-#EXTINF:-1,beIN Box Office 1
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34915
-#EXTINF:-1,beIN Box Office 2
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34916
-#EXTINF:-1,beIN Box Office 3
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34917
-#EXTINF:-1,SALON 1 
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34918
-#EXTINF:-1,SALON 2 
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34919
-#EXTINF:-1,SALON 3
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34920
-#EXTINF:-1,FiberBox Aksiyon HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34925
-#EXTINF:-1,FiberBox Animasyon HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34926
-#EXTINF:-1,FiberBox Dram HD 
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34927
-#EXTINF:-1,FiberBox Fantastik HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34928
-#EXTINF:-1,Filmbox Adrenalin FHD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34934
-#EXTINF:-1,Filmbox Aksiyon FHD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34933
-#EXTINF:-1,Filmbox Korku FHD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5302
-#EXTINF:-1,Filmbox Animasyon FHD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34932
-#EXTINF:-1,Filmbox Bilim Kurgu FHD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34931
-#EXTINF:-1,Filmbox Dram FHD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34930
-#EXTINF:-1,Filmbox Fantastik FHD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34929
-#EXTINF:-1,National Geographic HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5222
-#EXTINF:-1,National Geo Wild
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5318
-#EXTINF:-1,Animal Planet HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5220
-#EXTINF:-1,BBC EARTH
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/34921
-#EXTINF:-1,VIASAT Explorer HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5331
-#EXTINF:-1,HISTORY CHANNEL.
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5219
-#EXTINF:-1,Discovery Channel.
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5218
-#EXTINF:-1,Minika Go
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5208
-#EXTINF:-1,Cartoon Network HD.
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5217
-#EXTINF:-1,Disney Channel.
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5216
-#EXTINF:-1,TRT Sports
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5260
-#EXTINF:-1,Smart Sport HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5264
-#EXTINF:-1,A SPORT HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/8949
-#EXTINF:-1,S SPORT 1 HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/41387
-#EXTINF:-1,beIN Sport 1 HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5272
-#EXTINF:-1,beIN Sport 2 HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5271
-#EXTINF:-1,beIN Sport 3 HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5270
-#EXTINF:-1,beIN Sport 4 HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/32649
-#EXTINF:-1,Tivibu Sport 1 HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5268
-#EXTINF:-1,Tivibu Sport 2 HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5267
-#EXTINF:-1,Tivibu Sport 3 HD
-http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/5266
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234547
+#EXTINF:-1,MOVIE SMART CLASSIC HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234548
+#EXTINF:-1,DIZI SMART PREMIUM HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234549
+#EXTINF:-1,SMART COCUK HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234550
+#EXTINF:-1,SiNEMA TV 1 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234551
+#EXTINF:-1,SINEMA TV 2 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234552
+#EXTINF:-1,SiNEMA TV YERLi 1 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234553
+#EXTINF:-1,SiNEMA TV YERLi 2 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234554
+#EXTINF:-1,SiNEMA TV AKSiYON 1 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234555
+#EXTINF:-1,SINEMA TV AKSIYON 2 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234556
+#EXTINF:-1,SiNEMA TV KOMEDi 1 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234557
+#EXTINF:-1,SINEMA TV KOMEDI 2 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234558
+#EXTINF:-1,SiNEMA TV AiLE 1 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234559
+#EXTINF:-1,SINEMA TV AILE 2 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234560
+#EXTINF:-1,SiNEMA TV 1001 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234561
+#EXTINF:-1,SINEMA TV 1002 HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234562
+#EXTINF:-1,FX HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234563
+#EXTINF:-1,FX CRiME HD
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234564
+#EXTINF:-1,EXXEN SPORT 1 FHD (1920X1080)
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234565
+#EXTINF:-1,BEiN SPORTS 4K FEED MACTA ACiK
+http://gogaiptv.com:8000/Tolgaabi/anjBEEAafY/234566
