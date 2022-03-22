@@ -1,553 +1,905 @@
 #EXTM3U
 #EXTINF:-1,TR: TiVi TURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ SINEMA █ ▆ ▅ ▃" tvg-logo="https://i.hizliresim.com/EDVOpB.png" group-title="Sinema ",▃ ▅ ▆ █ SINEMA █ ▆ ▅ ▃
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/1891.ts
-#EXTINF:-1 tvg-id="vipchannel.tr" tvg-name="Vip Channel HD" tvg-logo="https://filbox.b-cdn.net/vipchannel.png" group-title="Sinema ",Vip Channel HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/1688.ts
-#EXTINF:-1 tvg-id="vipcanel2.tr" tvg-name="Vip Channel HD 2" tvg-logo="https://filbox.b-cdn.net/vipchannel.png" group-title="Sinema ",Vip Channel HD 2
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/1707.ts
-#EXTINF:-1 tvg-id="loca1.tr" tvg-name="Loca 1 Hd" tvg-logo="https://i.hizliresim.com/AzG0nq.png" group-title="Sinema ",Loca 1 Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/1703.ts
-#EXTINF:-1 tvg-id="loca2.tr" tvg-name="Loca 2 Hd" tvg-logo="https://i.hizliresim.com/pn2mXn.png" group-title="Sinema ",Loca 2 Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/1704.ts
-#EXTINF:-1 tvg-id="loca3.tr" tvg-name="Loca 3 Hd" tvg-logo="https://i.hizliresim.com/aYgydg.png" group-title="Sinema ",Loca 3 Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/1705.ts
-#EXTINF:-1 tvg-id="netfilixaksiyon.ad" tvg-name="Netflix Aksiyon HD" tvg-logo="https://filbox.b-cdn.net/netfilix-sinema/aksiyon.png" group-title="Sinema ",Netflix Aksiyon HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231128.ts
-#EXTINF:-1 tvg-id="netfilixkomedi.ad" tvg-name="Netflix Komedi HD" tvg-logo="https://filbox.b-cdn.net/netfilix-sinema/komedi.png" group-title="Sinema ",Netflix Komedi HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231129.ts
-#EXTINF:-1 tvg-id="netfilixaile.ad" tvg-name="Netflix Aile HD" tvg-logo="https://filbox.b-cdn.net/netfilix-sinema/aile.png" group-title="Sinema ",Netflix Aile HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231130.ts
-#EXTINF:-1 tvg-id="netfilixask.ad" tvg-name="Netflix Aşk HD" tvg-logo="https://filbox.b-cdn.net/netfilix-sinema/aşk.png" group-title="Sinema ",Netflix Aşk HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231131.ts
-#EXTINF:-1 tvg-id="netfilixdram.ad" tvg-name="Netflix Dram HD" tvg-logo="https://filbox.b-cdn.net/netfilix-sinema/drama.png" group-title="Sinema ",Netflix Dram HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231132.ts
-#EXTINF:-1 tvg-id="netfilixkorku.ad" tvg-name="Netflix Korku HD" tvg-logo="https://filbox.b-cdn.net/netfilix-sinema/korku.png" group-title="Sinema ",Netflix Korku HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231144.ts
-#EXTINF:-1 tvg-id="netfilixwestern.ad" tvg-name="Netflix Western HD" tvg-logo="https://filbox.b-cdn.net/netfilix-sinema/western.png" group-title="Sinema ",Netflix Western HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231145.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD 1" tvg-logo="https://filbox.b-cdn.net/netfilix-sinema/hd1.png" group-title="Sinema ",Netflix HD 1
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/163465.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD 2" tvg-logo="https://filbox.b-cdn.net/netfilix-sinema/hd2.png" group-title="Sinema ",Netflix HD 2
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/163466.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD 3" tvg-logo="https://filbox.b-cdn.net/netfilix-sinema/hd3.png" group-title="Sinema ",Netflix HD 3
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/163467.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD 4" tvg-logo="https://filbox.b-cdn.net/netfilix-sinema/h4.png" group-title="Sinema ",Netflix HD 4
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/163468.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD 5" tvg-logo="https://filbox.b-cdn.net/netfilix-sinema/hd5.png" group-title="Sinema ",Netflix HD 5
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/182412.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD 6" tvg-logo="https://filbox.b-cdn.net/netfilix-sinema/hd6.png" group-title="Sinema ",Netflix HD 6
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/182413.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD 7" tvg-logo="https://filbox.b-cdn.net/netfilix-sinema/hd7.png" group-title="Sinema ",Netflix HD 7
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/182414.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD 8" tvg-logo="https://filbox.b-cdn.net/netfilix-sinema/hd8.png" group-title="Sinema ",Netflix HD 8
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/182445.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix HD 9" tvg-logo="https://filbox.b-cdn.net/netfilix-sinema/hd9.png" group-title="Sinema ",Netflix HD 9
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/182446.ts
-#EXTINF:-1 tvg-id="" tvg-name="Altyazı Sinema HD" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/SwBQYS.png" group-title="Sinema ",Altyazı Sinema HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231732.ts
-#EXTINF:-1 tvg-id="" tvg-name="Blutv Komedi HD" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/blutv.png" group-title="Sinema ",Blutv Komedi HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/230976.ts
-#EXTINF:-1 tvg-id="" tvg-name="Blutv Aksiyon HD" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/blutv.png" group-title="Sinema ",Blutv Aksiyon HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/230977.ts
-#EXTINF:-1 tvg-id="" tvg-name="Blutv Nostaji HD" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/blutv.png" group-title="Sinema ",Blutv Nostaji HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/230979.ts
-#EXTINF:-1 tvg-id="" tvg-name="Blutv Belgesel HD" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/blutv.png" group-title="Sinema ",Blutv Belgesel HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/230980.ts
-#EXTINF:-1 tvg-id="" tvg-name="Blutv Kios HD" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/blutv.png" group-title="Sinema ",Blutv Kios HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/230981.ts
-#EXTINF:-1 tvg-id="beinofice1.tr" tvg-name="Bein Box Office 1 Hd" tvg-logo="https://filbox.b-cdn.net/sinema/b.b.officehd_2.png" group-title="Sinema ",Bein Box Office 1 Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/1699.ts
-#EXTINF:-1 tvg-id="beinofice2.tr" tvg-name="Bein Box Office 2 Hd" tvg-logo="https://filbox.b-cdn.net/sinema/b.b.officehd_2.png" group-title="Sinema ",Bein Box Office 2 Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/1700.ts
-#EXTINF:-1 tvg-id="beinofice3.tr" tvg-name="Bein Box Office 3 Hd" tvg-logo="https://filbox.b-cdn.net/sinema/b.b.officehd_2.png" group-title="Sinema ",Bein Box Office 3 Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/1701.ts
-#EXTINF:-1 tvg-id="dt.315" tvg-name="Bein Movies Action 2 Hd" tvg-logo="https://filbox.b-cdn.net/sinema/beinmoviesaction2hd.png" group-title="Sinema ",Bein Movies Action 2 Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/1694.ts
-#EXTINF:-1 tvg-id="dt.314" tvg-name="Bein Movies Action Hd" tvg-logo="https://filbox.b-cdn.net/sinema/beinmoviesaction2hd.png" group-title="Sinema ",Bein Movies Action Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/1697.ts
-#EXTINF:-1 tvg-id="dt.316" tvg-name="Bein Movies Family Hd" tvg-logo="https://filbox.b-cdn.net/sinema/beinmoviesfamilyhd.png" group-title="Sinema ",Bein Movies Family Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/1693.ts
-#EXTINF:-1 tvg-id="dt.317" tvg-name="Bein Movies Turk Hd" tvg-logo="https://filbox.b-cdn.net/sinema/beinmoviesturkhd.png" group-title="Sinema ",Bein Movies Turk Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/1689.ts
-#EXTINF:-1 tvg-id="dt.312" tvg-name="Bein Movies Premiere 2 Hd" tvg-logo="https://filbox.b-cdn.net/sinema/beinmoviespremier2hd.png" group-title="Sinema ",Bein Movies Premiere 2 Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/1696.ts
-#EXTINF:-1 tvg-id="dt.311" tvg-name="Bein Movies Premiere Hd" tvg-logo="https://filbox.b-cdn.net/sinema/beinmoviespremierhd.png" group-title="Sinema ",Bein Movies Premiere Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/1695.ts
-#EXTINF:-1 tvg-id="dt.313" tvg-name="Bein Movies Stars Hd" tvg-logo="https://filbox.b-cdn.net/sinema/beinmoviesstarshd.png" group-title="Sinema ",Bein Movies Stars Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/1690.ts
-#EXTINF:-1 tvg-id="dt.302" tvg-name="Bein Series Sci-fi Hd" tvg-logo="https://filbox.b-cdn.net/sinema/beinseriesscifihd.png" group-title="Sinema ",Bein Series Sci-fi Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/768.ts
-#EXTINF:-1 tvg-id="dt.304" tvg-name="Bein Series Comedy Hd" tvg-logo="https://filbox.b-cdn.net/sinema/beinseriescomedyhd.png" group-title="Sinema ",Bein Series Comedy Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/6914.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Series Drama Hd" tvg-logo="https://filbox.b-cdn.net/sinema/beinseriesdramahd.png" group-title="Sinema ",Bein Series Drama Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/6903.ts
-#EXTINF:-1 tvg-id="dt.305" tvg-name="Bein Series Vice Hd" tvg-logo="https://filbox.b-cdn.net/sinema/beinseriesvicehd.png" group-title="Sinema ",Bein Series Vice Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/6902.ts
-#EXTINF:-1 tvg-id="" tvg-name="D-Smart Moviesmart Classic" tvg-logo="https://filbox.b-cdn.net/sinema/moviesmartclassichd.png" group-title="Sinema ",D-Smart Moviesmart Classic
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/769.ts
-#EXTINF:-1 tvg-id="" tvg-name="D-Smart Moviesmart Premium 2 HD" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f9725ccfef0b75f4723df0" group-title="Sinema ",D-Smart Moviesmart Premium 2 HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/774.ts
-#EXTINF:-1 tvg-id="" tvg-name="D-Smart Moviesmart Turk HD" tvg-logo="https://filbox.b-cdn.net/sinema/moviesmartturkhd.png" group-title="Sinema ",D-Smart Moviesmart Turk HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/775.ts
-#EXTINF:-1 tvg-id="" tvg-name="D-Smart Moviesmart Premium HD" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f97253cfef0b75f4723ded" group-title="Sinema ",D-Smart Moviesmart Premium HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/757.ts
-#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="Sinema 2 HD" tvg-logo="https://filbox.b-cdn.net/sinema/sinematv.png" group-title="Sinema ",Sinema 2 HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/28875.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sinema Yerli Hd" tvg-logo="https://filbox.b-cdn.net/sinema/sinemayerli.png" group-title="Sinema ",Sinema Yerli Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/13267.ts
-#EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-name="SiNEMA YERLi 2" tvg-logo="https://filbox.b-cdn.net/sinema/sinemayerli2.png" group-title="Sinema ",SiNEMA YERLi 2
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/29588.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sinema Aile HD" tvg-logo="https://filbox.b-cdn.net/sinema/sinemaaile.png" group-title="Sinema ",Sinema Aile HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/721.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sinema Komedi 2 Hd" tvg-logo="https://filbox.b-cdn.net/sinema/sinemakomedi2.png" group-title="Sinema ",Sinema Komedi 2 Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/52907.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sinema Aksiyon 2 Hd" tvg-logo="https://filbox.b-cdn.net/sinema/sinemaaksiyon2.png" group-title="Sinema ",Sinema Aksiyon 2 Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/52908.ts
-#EXTINF:-1 tvg-id="sinemaaile2hd.tr" tvg-name="SiNEMA AiLE 2" tvg-logo="https://filbox.b-cdn.net/sinema/sinemaaile.png" group-title="Sinema ",SiNEMA AiLE 2
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/29587.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sinema TV HD" tvg-logo="https://filbox.b-cdn.net/sinema/sinematv.png" group-title="Sinema ",Sinema TV HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/9842.ts
-#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="Sinema  1001 Hd" tvg-logo="https://filbox.b-cdn.net/sinema/sinema1001.png" group-title="Sinema ",Sinema  1001 Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/28586.ts
-#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="Sinema 1002 Hd" tvg-logo="https://filbox.b-cdn.net/sinema/sinema1002.png" group-title="Sinema ",Sinema 1002 Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/28587.ts
-#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="Sinema Komedi 1 Hd" tvg-logo="https://filbox.b-cdn.net/sinema/sinemakomedi.png" group-title="Sinema ",Sinema Komedi 1 Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/28588.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sinema Tv Aksiyon HD" tvg-logo="https://filbox.b-cdn.net/sinema/sinemaaksiyon.png" group-title="Sinema ",Sinema Tv Aksiyon HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/6925.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal HD 1" tvg-logo="https://filbox.b-cdn.net/sinema/kemalsunal.png" group-title="Sinema ",Kemal Sunal HD 1
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231262.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal HD 2" tvg-logo="https://filbox.b-cdn.net/sinema/kemalsunal.png" group-title="Sinema ",Kemal Sunal HD 2
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231263.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal HD 3" tvg-logo="https://filbox.b-cdn.net/sinema/kemalsunal.png" group-title="Sinema ",Kemal Sunal HD 3
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231264.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal HD 4" tvg-logo="https://filbox.b-cdn.net/sinema/kemalsunal.png" group-title="Sinema ",Kemal Sunal HD 4
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231265.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal HD 5" tvg-logo="https://filbox.b-cdn.net/sinema/kemalsunal.png" group-title="Sinema ",Kemal Sunal HD 5
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231266.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cüneyt Arkın HD" tvg-logo="https://filbox.b-cdn.net/sinema/yesilcam-logo.png" group-title="Sinema ",Cüneyt Arkın HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231267.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kadir inanır HD" tvg-logo="https://filbox.b-cdn.net/sinema/yesilcam-logo.png" group-title="Sinema ",Kadir inanır HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231268.ts
-#EXTINF:-1 tvg-id="" tvg-name="Orhan Gencebay HD" tvg-logo="https://filbox.b-cdn.net/sinema/yesilcam-logo.png" group-title="Sinema ",Orhan Gencebay HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231269.ts
-#EXTINF:-1 tvg-id="" tvg-name="Küçük Emrah HD" tvg-logo="https://filbox.b-cdn.net/sinema/yesilcam-logo.png" group-title="Sinema ",Küçük Emrah HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231270.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ferdi Tayfur HD" tvg-logo="https://filbox.b-cdn.net/sinema/yesilcam-logo.png" group-title="Sinema ",Ferdi Tayfur HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231271.ts
-#EXTINF:-1 tvg-id="" tvg-name="Turist Ömer HD" tvg-logo="https://filbox.b-cdn.net/sinema/yesilcam-logo.png" group-title="Sinema ",Turist Ömer HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231272.ts
-#EXTINF:-1 tvg-id="" tvg-name="Zeki Metin HD" tvg-logo="https://filbox.b-cdn.net/sinema/yesilcam-logo.png" group-title="Sinema ",Zeki Metin HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231273.ts
-#EXTINF:-1 tvg-id="" tvg-name="Şener Şen HD" tvg-logo="https://filbox.b-cdn.net/sinema/yesilcam-logo.png" group-title="Sinema ",Şener Şen HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231274.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tarkan (Kartal Tibet) HD" tvg-logo="https://filbox.b-cdn.net/sinema/yesilcam-logo.png" group-title="Sinema ",Tarkan (Kartal Tibet) HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231275.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kovboy Sinema HD 1" tvg-logo="https://filbox.b-cdn.net/sinema/sinematv.png" group-title="Sinema ",Kovboy Sinema HD 1
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231276.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kovboy Sinema HD 2" tvg-logo="https://filbox.b-cdn.net/sinema/sinematv.png" group-title="Sinema ",Kovboy Sinema HD 2
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232527.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kovboy Sinema HD 3" tvg-logo="https://filbox.b-cdn.net/sinema/sinematv.png" group-title="Sinema ",Kovboy Sinema HD 3
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232528.ts
-#EXTINF:-1 tvg-id="" tvg-name="ibrahim Tatlıses HD" tvg-logo="https://filbox.b-cdn.net/sinema/yesilcam-logo.png" group-title="Sinema ",ibrahim Tatlıses HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231277.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yılmaz Güney HD" tvg-logo="https://filbox.b-cdn.net/sinema/yesilcam-logo.png" group-title="Sinema ",Yılmaz Güney HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231278.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yeşilçam HD 1" tvg-logo="https://filbox.b-cdn.net/sinema/yesilcam-logo.png" group-title="Sinema ",Yeşilçam HD 1
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231279.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yeşilçam HD 2" tvg-logo="https://filbox.b-cdn.net/sinema/yesilcam-logo.png" group-title="Sinema ",Yeşilçam HD 2
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231280.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yeşilçam HD 3" tvg-logo="https://filbox.b-cdn.net/sinema/yesilcam-logo.png" group-title="Sinema ",Yeşilçam HD 3
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231281.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yeşilçam HD 4" tvg-logo="https://filbox.b-cdn.net/sinema/yesilcam-logo.png" group-title="Sinema ",Yeşilçam HD 4
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231282.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yeşilçam HD 5" tvg-logo="https://filbox.b-cdn.net/sinema/yesilcam-logo.png" group-title="Sinema ",Yeşilçam HD 5
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231283.ts
-#EXTINF:-1 tvg-id="" tvg-name="PuhuTV Sinema Türk HD 1" tvg-logo="https://filbox.b-cdn.net/netfilix/puhu.png" group-title="Sinema ",PuhuTV Sinema Türk HD 1
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232024.ts
-#EXTINF:-1 tvg-id="" tvg-name="PuhuTV Sinema Türk HD 2" tvg-logo="https://filbox.b-cdn.net/netfilix/puhu.png" group-title="Sinema ",PuhuTV Sinema Türk HD 2
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232025.ts
-#EXTINF:-1 tvg-id="" tvg-name="Türk Komedi Sinema HD 1" tvg-logo="https://filbox.b-cdn.net/sinema/sinemakomedi.png" group-title="Sinema ",Türk Komedi Sinema HD 1
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231284.ts
-#EXTINF:-1 tvg-id="" tvg-name="Türk Komedi Sinema HD 2" tvg-logo="https://filbox.b-cdn.net/sinema/sinemakomedi.png" group-title="Sinema ",Türk Komedi Sinema HD 2
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231285.ts
-#EXTINF:-1 tvg-id="" tvg-name="Türk Komedi Sinema HD 3" tvg-logo="https://filbox.b-cdn.net/sinema/sinemakomedi.png" group-title="Sinema ",Türk Komedi Sinema HD 3
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231286.ts
-#EXTINF:-1 tvg-id="" tvg-name="Türk Komedi Sinema HD 4" tvg-logo="https://filbox.b-cdn.net/sinema/sinemakomedi.png" group-title="Sinema ",Türk Komedi Sinema HD 4
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231287.ts
-#EXTINF:-1 tvg-id="" tvg-name="Türk Komedi Sinema HD 5" tvg-logo="https://filbox.b-cdn.net/sinema/sinemakomedi.png" group-title="Sinema ",Türk Komedi Sinema HD 5
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231288.ts
-#EXTINF:-1 tvg-id="" tvg-name="Türk Komedi Sinema HD 6" tvg-logo="https://filbox.b-cdn.net/sinema/sinemakomedi.png" group-title="Sinema ",Türk Komedi Sinema HD 6
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231289.ts
-#EXTINF:-1 tvg-id="" tvg-name="Türk Komedi Sinema HD 7" tvg-logo="https://filbox.b-cdn.net/sinema/sinemakomedi.png" group-title="Sinema ",Türk Komedi Sinema HD 7
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231290.ts
-#EXTINF:-1 tvg-id="" tvg-name="Türk Komedi Sinema HD 8" tvg-logo="https://filbox.b-cdn.net/sinema/sinemakomedi.png" group-title="Sinema ",Türk Komedi Sinema HD 8
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231291.ts
-#EXTINF:-1 tvg-id="" tvg-name="Türk Komedi Sinema HD 9" tvg-logo="https://filbox.b-cdn.net/sinema/sinemakomedi.png" group-title="Sinema ",Türk Komedi Sinema HD 9
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231292.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 1" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Aksiyon Sinema HD 1
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231293.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 2" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Aksiyon Sinema HD 2
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231294.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 3" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Aksiyon Sinema HD 3
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231295.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 4" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Aksiyon Sinema HD 4
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231296.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 5" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Aksiyon Sinema HD 5
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231297.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 6" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Aksiyon Sinema HD 6
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231298.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 7" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Aksiyon Sinema HD 7
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231299.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 8" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Aksiyon Sinema HD 8
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231300.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 9" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Aksiyon Sinema HD 9
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231301.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 10" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Aksiyon Sinema HD 10
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231302.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 11" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Aksiyon Sinema HD 11
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231303.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 12" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Aksiyon Sinema HD 12
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231304.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Dram Sinema HD 1" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Dram Sinema HD 1
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231305.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Dram Sinema HD 2" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Dram Sinema HD 2
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231306.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Dram Sinema HD 3" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Dram Sinema HD 3
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231307.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Dram Sinema HD 4" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Dram Sinema HD 4
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231308.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Dram Sinema HD 5" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Dram Sinema HD 5
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231309.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Dram Sinema HD 6" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Dram Sinema HD 6
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231310.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema HD 1" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Komedi Sinema HD 1
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231311.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema HD 2" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Komedi Sinema HD 2
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231312.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema HD 3" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Komedi Sinema HD 3
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231313.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema HD 4" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Komedi Sinema HD 4
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231314.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Korku Sinema HD 1" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Korku Sinema HD 1
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231315.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Korku Sinema HD 2" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Korku Sinema HD 2
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231316.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yabancı Korku Sinema HD 3" tvg-logo="https://filbox.b-cdn.net/pluspanel/sinema/HkIyZf.png" group-title="Sinema ",Yabancı Korku Sinema HD 3
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231317.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yerli Korku Sinema HD 1" tvg-logo="https://filbox.b-cdn.net/sinema/sinemayerli.png" group-title="Sinema ",Yerli Korku Sinema HD 1
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231318.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yerli Korku Sinema HD 2" tvg-logo="https://filbox.b-cdn.net/sinema/sinemayerli.png" group-title="Sinema ",Yerli Korku Sinema HD 2
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231319.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yerli Korku Sinema HD 3" tvg-logo="https://filbox.b-cdn.net/sinema/sinemayerli.png" group-title="Sinema ",Yerli Korku Sinema HD 3
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231320.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yerli Dram Sinema HD 1" tvg-logo="https://filbox.b-cdn.net/sinema/sinemayerli.png" group-title="Sinema ",Yerli Dram Sinema HD 1
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231321.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yerli Dram Sinema HD 2" tvg-logo="https://filbox.b-cdn.net/sinema/sinemayerli.png" group-title="Sinema ",Yerli Dram Sinema HD 2
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231322.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yerli Dram Sinema HD 3" tvg-logo="https://filbox.b-cdn.net/sinema/sinemayerli.png" group-title="Sinema ",Yerli Dram Sinema HD 3
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231323.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yerli Dram Sinema HD 4" tvg-logo="https://filbox.b-cdn.net/sinema/sinemayerli.png" group-title="Sinema ",Yerli Dram Sinema HD 4
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231324.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yerli Dram Sinema HD 5" tvg-logo="https://filbox.b-cdn.net/sinema/sinemayerli.png" group-title="Sinema ",Yerli Dram Sinema HD 5
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231325.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yerli Dram Sinema HD 6" tvg-logo="https://filbox.b-cdn.net/sinema/sinemayerli.png" group-title="Sinema ",Yerli Dram Sinema HD 6
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231326.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yerli Dram Sinema HD 7" tvg-logo="https://filbox.b-cdn.net/sinema/sinemayerli.png" group-title="Sinema ",Yerli Dram Sinema HD 7
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231327.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yerli Dram Sinema HD 8" tvg-logo="https://filbox.b-cdn.net/sinema/sinemayerli.png" group-title="Sinema ",Yerli Dram Sinema HD 8
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231328.ts
-#EXTINF:-1 tvg-id="" tvg-name="-----| Boxet Sinema |-----" tvg-logo="https://i.hizliresim.com/EDVOpB.png" group-title="Sinema boxset",-----| Boxet Sinema |-----
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/185246.ts
-#EXTINF:-1 tvg-id="transformersboxset.ad" tvg-name="[Boxset]   Transformers HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y5siyFHEjVZUquAXOfNoONRO3p5.jpg" group-title="Sinema boxset",[Boxset]   Transformers HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231168.ts
-#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Sokak Dansı (Step Up) HD" tvg-logo="" group-title="Sinema boxset",[Boxset] Sokak Dansı (Step Up) HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232727.ts
-#EXTINF:-1 tvg-id="" tvg-name="[Boxset]   Oflu Hoca'nın Şifresi HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ykUNpfXAtghxi4CKpeswb2fURip.jpg" group-title="Sinema boxset",[Boxset]   Oflu Hoca'nın Şifresi HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232126.ts
-#EXTINF:-1 tvg-id="" tvg-name="[Boxset]   Sümela'nın Şifresi Temel HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/45qGteFfS4IPgPzuqh0Nn2bk0vF.jpg" group-title="Sinema boxset",[Boxset]   Sümela'nın Şifresi Temel HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232127.ts
-#EXTINF:-1 tvg-id="" tvg-name="[Boxset]   Geniş Aile HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y7Ys9KpZBucBmt1coM0hc8OYnw9.jpg" group-title="Sinema boxset",[Boxset]   Geniş Aile HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232060.ts
-#EXTINF:-1 tvg-id="" tvg-name="[Boxset]   Ali Kundili HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mVHQnJ3f1isnYZTNOum8DgMlzAa.jpg" group-title="Sinema boxset",[Boxset]   Ali Kundili HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232061.ts
-#EXTINF:-1 tvg-id="" tvg-name="[Boxset]   Hep Yek HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1u442h9yfbxH4dedQ6XP4CB8CGu.jpg" group-title="Sinema boxset",[Boxset]   Hep Yek HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232062.ts
-#EXTINF:-1 tvg-id="" tvg-name="[Boxset]   Şahan Gökbakar HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6ykxKZCsaRMnUKsjVJuCphH85kX.jpg" group-title="Sinema boxset",[Boxset]   Şahan Gökbakar HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232063.ts
-#EXTINF:-1 tvg-id="cakallarladansboxset.ad" tvg-name="[Boxset]   Çakallarla Dans HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vWuIDnnVlEOhTQu43P9NdbsZuUK.jpg" group-title="Sinema boxset",[Boxset]   Çakallarla Dans HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231741.ts
-#EXTINF:-1 tvg-id="ahmetkuralmuratcemsirboxset.ad" tvg-name="[Boxset]   Ahmet Kural  Murat Cemşir HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wvfXlgR2ZFERAFty0OAcS41PFxe.jpg" group-title="Sinema boxset",[Boxset]   Ahmet Kural  Murat Cemşir HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231742.ts
-#EXTINF:-1 tvg-id="cemyilmazfilmleriboxset.ad" tvg-name="[Boxset]   Cem Yılmaz HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hXLKHzlybVWloEbfWKZ43APdGUX.jpg" group-title="Sinema boxset",[Boxset]   Cem Yılmaz HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231743.ts
-#EXTINF:-1 tvg-id="safaksezerfilmleriboxset.ad" tvg-name="[Boxset]   Şafak Sezer HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8AHuSxZ02bO8TKis7YQdOq75MXf.jpg" group-title="Sinema boxset",[Boxset]   Şafak Sezer HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231744.ts
-#EXTINF:-1 tvg-id="recepivedikboxset.ad" tvg-name="[Boxset]   Recep ivedik HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/heKqSDyQuVzPrQIuvY5mqC3oc6M.jpg" group-title="Sinema boxset",[Boxset]   Recep ivedik HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231258.ts
-#EXTINF:-1 tvg-id="atademirerfilmboxset.ad" tvg-name="[Boxset] Ata Demirer" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yGHZcn8tquj3efEN2uC5fEWmdxl.jpg" group-title="Sinema boxset",[Boxset] Ata Demirer
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231748.ts
-#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Siccin HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ufgenUJfKPQSLFu2meMycctRR7M.jpg" group-title="Sinema boxset",[Boxset] Siccin HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232526.ts
-#EXTINF:-1 tvg-id="" tvg-name="[Boxset]   Bruce Lee HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bvHjKTLFIHOHzl0arxzu2fYtLfR.jpg" group-title="Sinema boxset",[Boxset]   Bruce Lee HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232196.ts
-#EXTINF:-1 tvg-id="" tvg-name="[Boxset]   Çılgın Dersane HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2P2FyM2LV6NeZFcGAghOjbwQmu.jpg" group-title="Sinema boxset",[Boxset]   Çılgın Dersane HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232197.ts
-#EXTINF:-1 tvg-id="" tvg-name="[Boxset]   Kaçıklar Üniversitesi HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tjDH8REu8bqgW9zXDIOy6C8FNtH.jpg" group-title="Sinema boxset",[Boxset]   Kaçıklar Üniversitesi HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232198.ts
-#EXTINF:-1 tvg-id="" tvg-name="[Boxset]   Jackie Chan HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uPyICQE9RsbRwOwefs3IrRXthpb.jpg" group-title="Sinema boxset",[Boxset]   Jackie Chan HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232199.ts
-#EXTINF:-1 tvg-id="starwarsboxset.tr" tvg-name="[Boxset]   Star Wars HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4kGNW8QgBCvey8o0t36MxhgxD0S.jpg" group-title="Sinema boxset",[Boxset]   Star Wars HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231169.ts
-#EXTINF:-1 tvg-id="olumdefteriboxset.tr" tvg-name="[Boxset]   Ölüm Defteri HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1X19j2albvewAdnTNHx2fFXjOcC.jpg" group-title="Sinema boxset",[Boxset]   Ölüm Defteri HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231170.ts
-#EXTINF:-1 tvg-id="sikiatislarboxset.ad" tvg-name="[Boxset]   Sıkı Atışlar HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zh9EGK970GHo10ETclWBOjZVUOK.jpg" group-title="Sinema boxset",[Boxset]   Sıkı Atışlar HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231171.ts
-#EXTINF:-1 tvg-id="thehobbitboxset.tr" tvg-name="[Boxset]   The Hobbit HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/713VvrEO2lF8WZUJo0sBKfdVKAY.jpg" group-title="Sinema boxset",[Boxset]   The Hobbit HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231172.ts
-#EXTINF:-1 tvg-id="eyvahannemdagitti!boxset.tr" tvg-name="[Boxset]   Eyvah Annem Dağıttı! HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9PaIkUnfOcU1wi5cFbamnmAkjEs.jpg" group-title="Sinema boxset",[Boxset]   Eyvah Annem Dağıttı! HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231173.ts
-#EXTINF:-1 tvg-id="ruhlarbolgesiboxset.ad" tvg-name="[Boxset]   Ruhlar Bölgesi HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yUv9QvfoohkOrYc0W3E2vWbDxGZ.jpg" group-title="Sinema boxset",[Boxset]   Ruhlar Bölgesi HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231174.ts
-#EXTINF:-1 tvg-id="babalarsavasiyorboxset.ad" tvg-name="[Boxset]   Babalar Savaşıyor HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rF2IoKL0IFmumEXQFUuB8LajTYP.jpg" group-title="Sinema boxset",[Boxset]   Babalar Savaşıyor HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231175.ts
-#EXTINF:-1 tvg-id="kodadiboxset.ad" tvg-name="[Boxset]   Kod Adı HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hGNOAX5XcpbBRwilGn4yy3Obv99.jpg" group-title="Sinema boxset",[Boxset]   Kod Adı HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231176.ts
-#EXTINF:-1 tvg-id="felektenbirgeceboxset.ad" tvg-name="[Boxset]   Felekten Bir Gece HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bP2ZFJ7c75pGNusx4oC9pWPGAf8.jpg" group-title="Sinema boxset",[Boxset]   Felekten Bir Gece HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231177.ts
-#EXTINF:-1 tvg-id="cehennemmelekleriboxset.ad" tvg-name="[Boxset]   Cehennem Melekleri HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wkzqmlq7X7CMX3mYKOw1rWMevTt.jpg" group-title="Sinema boxset",[Boxset]   Cehennem Melekleri HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231178.ts
-#EXTINF:-1 tvg-id="13cumaboxset.ad" tvg-name="[Boxset]   13.Cuma HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/88wlJ4teYlck4hJ2bnlxBrAVh0m.jpg" group-title="Sinema boxset",[Boxset]   13.Cuma HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231179.ts
-#EXTINF:-1 tvg-id="hayaletsurucuboxset.ad" tvg-name="[Boxset]   Hayalet Sürücü HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b42BoaDFzgJIiDWMRF0Sz8YlweQ.jpg" group-title="Sinema boxset",[Boxset]   Hayalet Sürücü HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231180.ts
-#EXTINF:-1 tvg-id="gijoeboxset.ad" tvg-name="[Boxset]   G.I. Joe HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3rWIZMzTKcCtV0eHJ70Z4Ru659f.jpg" group-title="Sinema boxset",[Boxset]   G.I. Joe HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231181.ts
-#EXTINF:-1 tvg-id="fantastikdortluboxset.ad" tvg-name="[Boxset]   Fantastik Dörtlü HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oeMpEsjmiT9PEJbRM1Fm7TZ1dE0.jpg" group-title="Sinema boxset",[Boxset]   Fantastik Dörtlü HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231182.ts
-#EXTINF:-1 tvg-id="polisakademisiboxset.ad" tvg-name="[Boxset]   Polis Akademisi HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gemBwM04u2Pffw6MA8MQEZQi3l6.jpg" group-title="Sinema boxset",[Boxset]   Polis Akademisi HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231183.ts
-#EXTINF:-1 tvg-id="mavikorkuboxset.ad" tvg-name="[Boxset]   Mavi Korku HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xqjAHXMJLORx9vVsCTJ6ZPJcr3D.jpg" group-title="Sinema boxset",[Boxset]   Mavi Korku HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231184.ts
-#EXTINF:-1 tvg-id="ninjakaplumbagalarboxset.ad" tvg-name="[Boxset]   Ninja Kaplumbağalar HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eiW7Y7L2ckpJYOBUDJ4JjboLD0g.jpg" group-title="Sinema boxset",[Boxset]   Ninja Kaplumbağalar HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231185.ts
-#EXTINF:-1 tvg-id="jackreacherboxset.ad" tvg-name="[Boxset]   Jack Reacher HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zlyhKMi2aLk25nOHnNm43MpZMtQ.jpg" group-title="Sinema boxset",[Boxset]   Jack Reacher HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231186.ts
-#EXTINF:-1 tvg-id="mukemmeluyumboxset.ad" tvg-name="[Boxset]   Mükemmel Uyum HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oFBQUufCV4c8WZoNhtGM17p884H.jpg" group-title="Sinema boxset",[Boxset]   Mükemmel Uyum HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231187.ts
-#EXTINF:-1 tvg-id="ozgurluksavascisiboxset.ad" tvg-name="[Boxset]   Özgürlük Savaşçısı HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pKhJLNHu5Aw8BgxOJ90lCmg0j0f.jpg" group-title="Sinema boxset",[Boxset]   Özgürlük Savaşçısı HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231188.ts
-#EXTINF:-1 tvg-id="buyuklerboxset.ad" tvg-name="[Boxset]   Büyükler HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cQGM5k1NtU85n4TUlrOrwijSCcm.jpg" group-title="Sinema boxset",[Boxset]   Büyükler HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231189.ts
-#EXTINF:-1 tvg-id="terminatorboxset.ad" tvg-name="[Boxset]   Terminatör HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tsamwfbr0hzo9EfiHpwNbN3JWJ8.jpg" group-title="Sinema boxset",[Boxset]   Terminatör HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231190.ts
-#EXTINF:-1 tvg-id="yenilmezlerboxset.ad" tvg-name="[Boxset]   Yenilmezler HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zM4ulQLKxBpmzanvPQNkj3VV4a5.jpg" group-title="Sinema boxset",[Boxset]   Yenilmezler HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231191.ts
-#EXTINF:-1 tvg-id="karanliklarulkesiboxset.ad" tvg-name="[Boxset]   Karanlıklar Ülkesi HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zsnQ41UZ3jo1wEeemF0eA9cAIU0.jpg" group-title="Sinema boxset",[Boxset]   Karanlıklar Ülkesi HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231192.ts
-#EXTINF:-1 tvg-id="jurassicparkboxset.ad" tvg-name="[Boxset]   Jurassic Park HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg" group-title="Sinema boxset",[Boxset]   Jurassic Park HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231193.ts
-#EXTINF:-1 tvg-id="indianajonesboxset.ad" tvg-name="[Boxset]   Indiana Jones HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pn0Wg5SgiEco44t3LSF9nH4fI4Y.jpg" group-title="Sinema boxset",[Boxset]   Indiana Jones HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231194.ts
-#EXTINF:-1 tvg-id="hizliveofkeliboxset.ad" tvg-name="[Boxset]   Hızlı ve Öfkeli HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dqTxOdYxaJENinJysOuAfwsXw2q.jpg" group-title="Sinema boxset",[Boxset]   Hızlı ve Öfkeli HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231195.ts
-#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Taxi HD" tvg-logo="" group-title="Sinema boxset",[Boxset] Taxi HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232717.ts
-#EXTINF:-1 tvg-id="gorevimiztehlikeboxset.ad" tvg-name="[Boxset]   Görevimiz Tehlike HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5l0hS4A119jCA1A02XsFZHq1uRD.jpg" group-title="Sinema boxset",[Boxset]   Görevimiz Tehlike HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231196.ts
-#EXTINF:-1 tvg-id="korkukapaniboxset.ad" tvg-name="[Boxset]   Korku Kapanı HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8o059PGrYLl28RM3TzHoY955SSH.jpg" group-title="Sinema boxset",[Boxset]   Korku Kapanı HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231197.ts
-#EXTINF:-1 tvg-id="bladerunnerboxset.ad" tvg-name="[Boxset]   Blade Runner HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jsMVRjLwKWN3gaiGd9pJUrxezsp.jpg" group-title="Sinema boxset",[Boxset]   Blade Runner HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231198.ts
-#EXTINF:-1 tvg-id="antmanboxset.ad" tvg-name="[Boxset]   Ant-Man HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gwX3lg70g0NznI25h0Ahmxt2eY4.jpg" group-title="Sinema boxset",[Boxset]   Ant-Man HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231199.ts
-#EXTINF:-1 tvg-id="aclikoyunlariboxset.ad" tvg-name="[Boxset]   Açlık Oyunları HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wZLKu0S0Knwf5xc7EFcHPuPgylW.jpg" group-title="Sinema boxset",[Boxset]   Açlık Oyunları HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231200.ts
-#EXTINF:-1 tvg-id="takenboxset.ad" tvg-name="[Boxset]   Taken HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zOHldUyFTmI7lu39EIUvrEemvxA.jpg" group-title="Sinema boxset",[Boxset]   Taken HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231201.ts
-#EXTINF:-1 tvg-id="johnwickboxset.ad" tvg-name="[Boxset]   John Wick HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2CVsjJepKoLXBqKzx7SsgRevicR.jpg" group-title="Sinema boxset",[Boxset]   John Wick HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231202.ts
-#EXTINF:-1 tvg-id="salakileavanakboxset.ad" tvg-name="[Boxset]   Salak ile Avanak HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg" group-title="Sinema boxset",[Boxset]   Salak ile Avanak HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231203.ts
-#EXTINF:-1 tvg-id="yuzuklerinefendisiboxset.ad" tvg-name="[Boxset]   Yüzüklerin Efendisi HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l2rv8rLUlo2zMWd20JLtW6bZUsK.jpg" group-title="Sinema boxset",[Boxset]   Yüzüklerin Efendisi HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231204.ts
-#EXTINF:-1 tvg-id="mortalkombatboxset.ad" tvg-name="[Boxset]   Mortal Kombat HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/khhAa4bJK2hRSdh1BhpZPtIROSx.jpg" group-title="Sinema boxset",[Boxset]   Mortal Kombat HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231205.ts
-#EXTINF:-1 tvg-id="charlieninmelekleriboxset.ad" tvg-name="[Boxset]   Charlie'nin Melekleri HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gYeW6Syx3VGWkuzUhkwP6obQ5Eq.jpg" group-title="Sinema boxset",[Boxset]   Charlie'nin Melekleri HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231206.ts
-#EXTINF:-1 tvg-id="alacakaranlikboxset.ad" tvg-name="[Boxset]   Alacakaranlık HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/awyAxbPqKuOmQmuXSB214KObsPR.jpg" group-title="Sinema boxset",[Boxset]   Alacakaranlık HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231207.ts
-#EXTINF:-1 tvg-id="jumanjiboxset.ad" tvg-name="[Boxset]   Jumanji HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w8AyCg3d2eRphfJSZAuNEvhiiuT.jpg" group-title="Sinema boxset",[Boxset]   Jumanji HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231208.ts
-#EXTINF:-1 tvg-id="ipmanboxset.ad" tvg-name="[Boxset]   Ip-Man HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ik2fNhSATobUCukor4pKjT82Tvb.jpg" group-title="Sinema boxset",[Boxset]   Ip-Man HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231209.ts
-#EXTINF:-1 tvg-id="gecmisiolmayanadamboxset.ad" tvg-name="[Boxset]   Geçmişi Olmayan Adam HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pl0NgDFVvR7o6WFCnllTljxkdrS.jpg" group-title="Sinema boxset",[Boxset]   Geçmişi Olmayan Adam HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231210.ts
-#EXTINF:-1 tvg-id="elmsokagindakabusboxset.ad" tvg-name="[Boxset]   Elm Sokağında Kabus HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4W2GvVM89Xu4HTxUbun4AO0yOAJ.jpg" group-title="Sinema boxset",[Boxset]   Elm Sokağında Kabus HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231211.ts
-#EXTINF:-1 tvg-id="ejderhadovmelikizboxset.ad" tvg-name="[Boxset]   Ejderha Dövmeli Kız HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vbLedKc1BUF4FOH1GyHW62FulCc.jpg" group-title="Sinema boxset",[Boxset]   Ejderha Dövmeli Kız HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231212.ts
-#EXTINF:-1 tvg-id="kelebeketkisiboxset.ad" tvg-name="[Boxset]   Kelebek Etkisi HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ukfxDqM7v5LHdLvsGWaQyXVBYMq.jpg" group-title="Sinema boxset",[Boxset]   Kelebek Etkisi HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231213.ts
-#EXTINF:-1 tvg-id="korkuncbirfilmboxset.ad" tvg-name="[Boxset]   Korkunç Bir Film HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2uXj7DCoSknaUzIHJ3F460Z7t24.jpg" group-title="Sinema boxset",[Boxset]   Korkunç Bir Film HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231214.ts
-#EXTINF:-1 tvg-id="hayaletavcilariboxset.ad" tvg-name="[Boxset]   Hayalet Avcıları HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p92WwqcS1goU9VpViH6fAwaoXP4.jpg" group-title="Sinema boxset",[Boxset]   Hayalet Avcıları HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231215.ts
-#EXTINF:-1 tvg-id="birzamanlarcindeboxset.ad" tvg-name="[Boxset]   Bir Zamanlar Çinde HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sT5a3QNVY3cpoixZP0a0LE1sYxg.jpg" group-title="Sinema boxset",[Boxset]   Bir Zamanlar Çinde HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231216.ts
-#EXTINF:-1 tvg-id="deadpoolboxset.ad" tvg-name="[Boxset]   Deadpool HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg" group-title="Sinema boxset",[Boxset]   Deadpool HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231217.ts
-#EXTINF:-1 tvg-id="uyumsuzboxset.ad" tvg-name="[Boxset]   Uyumsuz HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6UFLI78by5BjAme6GwM0m4Ytp8i.jpg" group-title="Sinema boxset",[Boxset]   Uyumsuz HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231218.ts
-#EXTINF:-1 tvg-id="mumyaboxset.ad" tvg-name="[Boxset]   Mumya HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xX8BJkCIIVmlZWLGy9ks2rwcZ5r.jpg" group-title="Sinema boxset",[Boxset]   Mumya HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231219.ts
-#EXTINF:-1 tvg-id="hellboyboxset.ad" tvg-name="[Boxset]   Hellboy HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg" group-title="Sinema boxset",[Boxset]   Hellboy HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231220.ts
-#EXTINF:-1 tvg-id="shirbazlarcetesiboxset.ad" tvg-name="[Boxset]   Shirbazlar Çetesi HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/giNcN4Flh9baO1i2ld3m2KG5uPv.jpg" group-title="Sinema boxset",[Boxset]   Shirbazlar Çetesi HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231221.ts
-#EXTINF:-1 tvg-id="bitirimikiliboxset.ad" tvg-name="[Boxset]   Bitirim ikili HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lLt5eP2P4CwR5LE6V9uaVsRFkd1.jpg" group-title="Sinema boxset",[Boxset]   Bitirim ikili HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231222.ts
-#EXTINF:-1 tvg-id="arinmagecesiboxset.ad" tvg-name="[Boxset]   Arınma Gecesi HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1x4fHaDdlpWT5P2UV4ClKguWbTE.jpg" group-title="Sinema boxset",[Boxset]   Arınma Gecesi HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231223.ts
-#EXTINF:-1 tvg-id="siyahgiyenadamlarboxset.ad" tvg-name="[Boxset]   Siyah Giyen Adamlar HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/90DdoEStzeObs96fsYf4GG544iN.jpg" group-title="Sinema boxset",[Boxset]   Siyah Giyen Adamlar HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231224.ts
-#EXTINF:-1 tvg-id="labirentboxset.ad" tvg-name="[Boxset]   Labirent HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rh1LRplI0hQwJH8R8CbHExzhfDR.jpg" group-title="Sinema boxset",[Boxset]   Labirent HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231225.ts
-#EXTINF:-1 tvg-id="batmanboxset.ad" tvg-name="[Boxset]   Batman HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qk7o86pwxozVySkwKRCZrKuBL4j.jpg" group-title="Sinema boxset",[Boxset]   Batman HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231226.ts
-#EXTINF:-1 tvg-id="rockyboxset.ad" tvg-name="[Boxset]   Rocky HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lxbLYLc9KWEVIZfkD40rhKA8RnI.jpg" group-title="Sinema boxset",[Boxset]   Rocky HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231227.ts
-#EXTINF:-1 tvg-id="oceansboxset.ad" tvg-name="[Boxset]   Ocean HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xy7OyvUYSsKrWI2P9tvmGWK43a8.jpg" group-title="Sinema boxset",[Boxset]   Ocean HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231228.ts
-#EXTINF:-1 tvg-id="gelecegedonusboxset.ad" tvg-name="[Boxset]   Geleceğe Dönüş HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l28VFt2qCamIKA9HGrKLYHASKtH.jpg" group-title="Sinema boxset",[Boxset]   Geleceğe Dönüş HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231229.ts
-#EXTINF:-1 tvg-id="conanboxset.ad" tvg-name="[Boxset]   Conan HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5IEVeD65WcIWCYNgT9Mabe0eMk1.jpg" group-title="Sinema boxset",[Boxset]   Conan HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231230.ts
-#EXTINF:-1 tvg-id="matrixboxset.ad" tvg-name="[Boxset]   Matrix HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg" group-title="Sinema boxset",[Boxset]   Matrix HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231231.ts
-#EXTINF:-1 tvg-id="malefizboxset.ad" tvg-name="[Boxset]   Malefiz HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1ASpPDObe4Bodkaal9iokyEsnMY.jpg" group-title="Sinema boxset",[Boxset]   Malefiz HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231232.ts
-#EXTINF:-1 tvg-id="ramboboxset.ad" tvg-name="[Boxset]   Rambo HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gwP7l73XxxXffdFhrcFaiN38qmm.jpg" group-title="Sinema boxset",[Boxset]   Rambo HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231233.ts
-#EXTINF:-1 tvg-id="xmenboxset.ad" tvg-name="[Boxset]   X-Men HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/81YsQLXwnPG1rpjGUJhCl0acXx3.jpg" group-title="Sinema boxset",[Boxset]   X-Men HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231234.ts
-#EXTINF:-1 tvg-id="karayipkorsanlariboxset.ad" tvg-name="[Boxset]   Karayip Korsanları HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cETuD5xEdNYP5Gy87Sz3O7NBHhe.jpg" group-title="Sinema boxset",[Boxset]   Karayip Korsanları HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231235.ts
-#EXTINF:-1 tvg-id="sondurakboxset.ad" tvg-name="[Boxset]   Son Durak HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5uRF7zATPr0hIMfDcMEfnhMGw6a.jpg" group-title="Sinema boxset",[Boxset]   Son Durak HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231236.ts
-#EXTINF:-1 tvg-id="testereboxset.ad" tvg-name="[Boxset]   Testere HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/WFD2HcMoI2FVyCz6iljA673PCB.jpg" group-title="Sinema boxset",[Boxset]   Testere HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231237.ts
-#EXTINF:-1 tvg-id="muzedebirgeceboxset.ad" tvg-name="[Boxset]   Müzede Bir Gece HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7NnokZUTh9PpsD1CfnPUBoE5ACU.jpg" group-title="Sinema boxset",[Boxset]   Müzede Bir Gece HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231238.ts
-#EXTINF:-1 tvg-id="bicaginikiyuzuboxset.ad" tvg-name="[Boxset]   Bıçağın İki Yüzü HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/62WdFTVWAVFnDfNci35Ik59Mwfa.jpg" group-title="Sinema boxset",[Boxset]   Bıçağın İki Yüzü HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231239.ts
-#EXTINF:-1 tvg-id="tasiyiciboxset.ad" tvg-name="[Boxset]   Taşıyıcı HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d7QvQezQTjeebJbuZyXGgidgzdq.jpg" group-title="Sinema boxset",[Boxset]   Taşıyıcı HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231240.ts
-#EXTINF:-1 tvg-id="kurtulusgunuboxset.ad" tvg-name="[Boxset]   Kurtuluş Günü HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/29xobLkZsJW0Ifdc1lsNohZoaJH.jpg" group-title="Sinema boxset",[Boxset]   Kurtuluş Günü HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231241.ts
-#EXTINF:-1 tvg-id="seytaninoteliboxset.ad" tvg-name="[Boxset]   Şeytanın Oteli HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nsNeWCwvY183boDXqCRWfuPpX41.jpg" group-title="Sinema boxset",[Boxset]   Şeytanın Oteli HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231242.ts
-#EXTINF:-1 tvg-id="orumcekadamboxset.ad" tvg-name="[Boxset]   Örümcek Adam HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7KQ8dSUHk1yDpiBfOQ4hqMLAqrX.jpg" group-title="Sinema boxset",[Boxset]   Örümcek Adam HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231243.ts
-#EXTINF:-1 tvg-id="riddickboxset.ad" tvg-name="[Boxset]   Riddick HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xhdDd6Gd6EaPBwNdCjNW2HCnIQY.jpg" group-title="Sinema boxset",[Boxset]   Riddick HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231244.ts
-#EXTINF:-1 tvg-id="percyjacksonboxset.ad" tvg-name="[Boxset]   Percy Jackson HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tAu90qEpLqwqiZLsMqpaMVr55oN.jpg" group-title="Sinema boxset",[Boxset]   Percy Jackson HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231245.ts
-#EXTINF:-1 tvg-id="maymunlarcehennemiboxset.ad" tvg-name="[Boxset]   Maymunlar Cehennemi HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sYAzli0OkgLu0hOJa8a6Rv3SWRy.jpg" group-title="Sinema boxset",[Boxset]   Maymunlar Cehennemi HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231246.ts
-#EXTINF:-1 tvg-id="olumculdeneyboxset.ad" tvg-name="[Boxset]   Ölümcül Deney HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ohdUDWVlcbuWphaLu6wS91xdJ73.jpg" group-title="Sinema boxset",[Boxset]   Ölümcül Deney HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231247.ts
-#EXTINF:-1 tvg-id="300spartaliboxset.ad" tvg-name="[Boxset]   300 Spartalı HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9W49fy5G7v9Ed3CXtvMi41YqZtt.jpg" group-title="Sinema boxset",[Boxset]   300 Spartalı HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231248.ts
-#EXTINF:-1 tvg-id="zorolumboxset.ad" tvg-name="[Boxset]   Zor Ölüm HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/31TT47YjBl7a7uvJ3ff1nrirXhP.jpg" group-title="Sinema boxset",[Boxset]   Zor Ölüm HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231249.ts
-#EXTINF:-1 tvg-id="killbillboxset.ad" tvg-name="[Boxset]   Kill Bill HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg" group-title="Sinema boxset",[Boxset]   Kill Bill HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231250.ts
-#EXTINF:-1 tvg-id="uzayyoluboxset.ad" tvg-name="[Boxset]   Uzay Yolu HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lV5OpzAss1z06YNagOVap1I35mH.jpg" group-title="Sinema boxset",[Boxset]   Uzay Yolu HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231251.ts
-#EXTINF:-1 tvg-id="harrypotterboxset.ad" tvg-name="[Boxset]   Harry Potter HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g9Qh2VU3Tt5ZyQzXUWKj8PRjBIo.jpg" group-title="Sinema boxset",[Boxset]   Harry Potter HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231252.ts
-#EXTINF:-1 tvg-id="jamesbond007boxset.ad" tvg-name="[Boxset]   James Bond 007 HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zj8ongFhtWNsVlfjOGo8pSr7PQg.jpg" group-title="Sinema boxset",[Boxset]   James Bond 007 HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231253.ts
-#EXTINF:-1 tvg-id="fantastikcanavarlarboxset.ad" tvg-name="[Boxset]   Fantastik Canavarlar HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1GEWrrxmrSon5DyYmK7SZtC9TiM.jpg" group-title="Sinema boxset",[Boxset]   Fantastik Canavarlar HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231254.ts
-#EXTINF:-1 tvg-id="thorboxset.ad" tvg-name="[Boxset]   Thor HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gwxKoaCOEso9Rk2bAxZTZmpup4S.jpg" group-title="Sinema boxset",[Boxset]   Thor HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231255.ts
-#EXTINF:-1 tvg-id="demiradamboxset.ad" tvg-name="[Boxset]   Demir Adam HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2j5Hga4ArYaSslbWL0hfLerZ6pQ.jpg" group-title="Sinema boxset",[Boxset]   Demir Adam HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231256.ts
-#EXTINF:-1 tvg-id="kaptanamerikaboxset.ad" tvg-name="[Boxset]   Kaptan Amerika HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2uBOjlRjbN00lgPyNdYx8jQiScM.jpg" group-title="Sinema boxset",[Boxset]   Kaptan Amerika HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231257.ts
-#EXTINF:-1 tvg-id="ciglikboxset.ad" tvg-name="[Boxset]   Çığlık HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fmo5yvgd8B4JlsUpCLw7lrTwK0e.jpg" group-title="Sinema boxset",[Boxset]   Çığlık HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231259.ts
-#EXTINF:-1 tvg-id="supermanboxset.ad" tvg-name="[Boxset]   Süperman HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eClisUhexQO3ofrge3RtDQZqDq8.jpg" group-title="Sinema boxset",[Boxset]   Süperman HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231260.ts
-#EXTINF:-1 tvg-id="olumyarisiboxset.tr" tvg-name="[Boxset]   ölüm yarışı HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5A79GeOb3uChQ0l0ZDjDyODKQp3.jpg" group-title="Sinema boxset",[Boxset]   ölüm yarışı HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231261.ts
-#EXTINF:-1 tvg-id="" tvg-name="------| Dizi |------" tvg-logo="https://i.hizliresim.com/EDVOpB.png" group-title="Dizi ",------| Dizi |------
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/3213.ts
-#EXTINF:-1 tvg-id="" tvg-name="D-Smart Dizi Smart Max Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f972dfcfef0b75f4723f9a" group-title="Dizi ",D-Smart Dizi Smart Max Hd
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/722.ts
-#EXTINF:-1 tvg-id="" tvg-name="D-Smart Dizi Premium HD" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f972a9cfef0b75f4723f97" group-title="Dizi ",D-Smart Dizi Premium HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/770.ts
-#EXTINF:-1 tvg-id="" tvg-name="D-Smart FX" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da854" group-title="Dizi ",D-Smart FX
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/710.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Crime HD" tvg-logo="https://filbox.b-cdn.net/sinema/foxcrime_2.png" group-title="Sinema ",Fox Crime HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/13270.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ezel HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2BmzCFtTPK4PJVJN6K3KVrOeHAp.jpg" group-title="Dizi ",Ezel HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231396.ts
-#EXTINF:-1 tvg-id="" tvg-name="Acı Hayat HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bGZf5bCwewVjf6GT35VpifrTj4D.jpg" group-title="Dizi ",Acı Hayat HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231397.ts
-#EXTINF:-1 tvg-id="" tvg-name="Behzat Ç HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m5NHEg7GcHgjzxPy6EAMs7BtU1C.jpg" group-title="Dizi ",Behzat Ç HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231398.ts
-#EXTINF:-1 tvg-id="" tvg-name="Avrupa Yakası HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7yCbsCn9aqRBcc9RReTCK6lHX8N.jpg" group-title="Dizi ",Avrupa Yakası HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231399.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sıfır Bir Adana HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tXy9VWKWC49YFvgEusLFhSMl7sy.jpg" group-title="Dizi ",Sıfır Bir Adana HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231400.ts
-#EXTINF:-1 tvg-id="" tvg-name="Leyla ile Mecnun (Exxen) HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/epQhFbDRSCh3xvivJz4QhRtM8VB.jpg" group-title="Dizi ",Leyla ile Mecnun (Exxen) HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231401.ts
-#EXTINF:-1 tvg-id="" tvg-name="Saygı HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2lD7iegVJ7ZQSiRHqFqE8tQ3PKV.jpg" group-title="Dizi ",Saygı HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231402.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sokağın Çocukları HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/juc0tnyjq0afef7LG3vMIDibrvJ.jpg" group-title="Dizi ",Sokağın Çocukları HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231403.ts
-#EXTINF:-1 tvg-id="" tvg-name="Doktorlar HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7zF9x82mXNOujzUA51sCRIDnFYN.jpg" group-title="Dizi ",Doktorlar HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231404.ts
-#EXTINF:-1 tvg-id="" tvg-name="Deli Yürek HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/udSmghKC0vjLwNvRqL9XQiRvRQ4.jpg" group-title="Dizi ",Deli Yürek HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231405.ts
-#EXTINF:-1 tvg-id="" tvg-name="Karadayı HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5FAqOc2tsAIOpu846Q4UakaCYad.jpg" group-title="Dizi ",Karadayı HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231406.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg" group-title="Dizi ",Game Of Thrones HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231407.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kurtlar Vadisi HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pBfmiy2bWx7tlmJKn5k636XrO5.jpg" group-title="Dizi ",Kurtlar Vadisi HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231408.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kara Şimşek" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e93H0P6GYoDUhHR5uCdmfLDAvKt.jpg" group-title="Dizi ",Kara Şimşek
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231606.ts
-#EXTINF:-1 tvg-id="" tvg-name="Emret Komutanım" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e7whEb9sLgNIM6h8yOlATllSHiy.jpg" group-title="Dizi ",Emret Komutanım
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231632.ts
-#EXTINF:-1 tvg-id="" tvg-name="1 Erkek 1 Kadın HD" tvg-logo="" group-title="Dizi ",1 Erkek 1 Kadın HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231738.ts
-#EXTINF:-1 tvg-id="" tvg-name="işler Güçler HD" tvg-logo="" group-title="Dizi ",işler Güçler HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231739.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kardeş Payı HD" tvg-logo="" group-title="Dizi ",Kardeş Payı HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231740.ts
-#EXTINF:-1 tvg-id="" tvg-name="Geniş Aile HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/49LwfpVhAeaVdyce5kZPuznatrj.jpg" group-title="Dizi ",Geniş Aile HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231830.ts
-#EXTINF:-1 tvg-id="" tvg-name="Alemin Kralı HD" tvg-logo="" group-title="Dizi ",Alemin Kralı HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231831.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dadı HD" tvg-logo="" group-title="Dizi ",Dadı HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/231832.ts
-#EXTINF:-1 tvg-id="" tvg-name="Çiçek Taksi HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1yhXf38Tblfp5NRkLVX9bUOlDww.jpg" group-title="Dizi ",Çiçek Taksi HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232018.ts
-#EXTINF:-1 tvg-id="" tvg-name="Çocuklar Duymasın HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4Ctw5fPgMASHub8LtX16N8jjqQA.jpg" group-title="Dizi ",Çocuklar Duymasın HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232019.ts
-#EXTINF:-1 tvg-id="" tvg-name="Zengin Kız Fakir Oğlan HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hJw9CIaFC3OT0srCvcd5WnTdMyj.jpg" group-title="Dizi ",Zengin Kız Fakir Oğlan HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232020.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galip Derviş HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2eqg1mUqcwwU63Ljll2vV0WFgvO.jpg" group-title="Dizi ",Galip Derviş HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232021.ts
-#EXTINF:-1 tvg-id="" tvg-name="Jet Sosyete HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q1UNkR1aTMvLG0W7WyBfdNgbJaj.jpg" group-title="Dizi ",Jet Sosyete HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232022.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yahşi Cazibe HD" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vD1B9EycSpYRSuVop3lDb7z4Jfi.jpg" group-title="Dizi ",Yahşi Cazibe HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232023.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ince Ince Yasemince HD" tvg-logo="" group-title="Dizi ",Ince Ince Yasemince HD
-http://pluskor520.com:80/live/aykut@kartal/aykut@kartal/232737.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Max Aksiyon HD" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➤Vip Sinema Salon",TR: Max Aksiyon HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/191411
+#EXTINF:-1 tvg-id="" tvg-name="TR: Max Premier HD" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➤Vip Sinema Salon",TR: Max Premier HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/191412
+#EXTINF:-1 tvg-id="" tvg-name="TR: Max Aksiyon 2 HD" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➤Vip Sinema Salon",TR: Max Aksiyon 2 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/191413
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon HD" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➤Vip Sinema Salon",TR: MAX Vizyon HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/191414
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 2 HD" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➤Vip Sinema Salon",TR: MAX Vizyon 2 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/191415
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 3 HD" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➤Vip Sinema Salon",TR: MAX Vizyon 3 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/191416
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 4 HD" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➤Vip Sinema Salon",TR: MAX Vizyon 4 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/191417
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX TURK HD" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➤Vip Sinema Salon",TR: MAX TURK HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/191418
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➤Vip Sinema Salon",TR: MAX GOLD HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/191419
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX PLUS HD" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➤Vip Sinema Salon",TR: MAX PLUS HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/191420
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX 007 HD" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➤Vip Sinema Salon",TR: MAX 007 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/191421
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Hint Filimleri" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➤Vip Sinema Salon",TR: MAX Hint Filimleri
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/191422
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Orjinal HD" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➤Vip Sinema Salon",TR: MAX Orjinal HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/191423
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX STAR WARS HD" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➤Vip Sinema Salon",TR: MAX STAR WARS HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/191424
+#EXTINF:-1 tvg-id="" tvg-name="TR: PROTURK BiLiM KURGU" tvg-logo="https://i.hizliresim.com/UZihXp.png" group-title="TR: ➤ProTurk Salon",TR: PROTURK BiLiM KURGU
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78887
+#EXTINF:-1 tvg-id="" tvg-name="TR: PROTURK ACTiON" tvg-logo="https://i.hizliresim.com/4nhc7r.png" group-title="TR: ➤ProTurk Salon",TR: PROTURK ACTiON
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78888
+#EXTINF:-1 tvg-id="" tvg-name="TR: PROTURK GERiLiM" tvg-logo="https://i.hizliresim.com/hDe1b2.png" group-title="TR: ➤ProTurk Salon",TR: PROTURK GERiLiM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78889
+#EXTINF:-1 tvg-id="" tvg-name="TR: PROTURK KORKU" tvg-logo="https://i.hizliresim.com/2M3Oaw.png" group-title="TR: ➤ProTurk Salon",TR: PROTURK KORKU
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78890
+#EXTINF:-1 tvg-id="" tvg-name="TR: PROTURK DRAM" tvg-logo="https://i.hizliresim.com/PJynDt.png" group-title="TR: ➤ProTurk Salon",TR: PROTURK DRAM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78891
+#EXTINF:-1 tvg-id="" tvg-name="TR: PROTURK FANTASTiC" tvg-logo="https://i.hizliresim.com/KQIvvd.png" group-title="TR: ➤ProTurk Salon",TR: PROTURK FANTASTiC
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78892
+#EXTINF:-1 tvg-id="" tvg-name="TR: PROTURK MACERA" tvg-logo="https://i.hizliresim.com/fmKkT9.png" group-title="TR: ➤ProTurk Salon",TR: PROTURK MACERA
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78893
+#EXTINF:-1 tvg-id="" tvg-name="TR: PROTURK COMEDY" tvg-logo="https://i.hizliresim.com/leHKIM.png" group-title="TR: ➤ProTurk Salon",TR: PROTURK COMEDY
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78894
+#EXTINF:-1 tvg-id="" tvg-name="TR: PROTURK ViZYON" tvg-logo="https://i.hizliresim.com/E5X7CS.png" group-title="TR: ➤ProTurk Salon",TR: PROTURK ViZYON
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78895
+#EXTINF:-1 tvg-id="" tvg-name="TR: PROTURK YERLi" tvg-logo="https://i.hizliresim.com/ofpK2P.png" group-title="TR: ➤ProTurk Salon",TR: PROTURK YERLi
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78896
+#EXTINF:-1 tvg-id="" tvg-name="TR: PROTURK UZAKDOGU" tvg-logo="https://i.hizliresim.com/ddmCXV.png" group-title="TR: ➤ProTurk Salon",TR: PROTURK UZAKDOGU
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78897
+#EXTINF:-1 tvg-id="" tvg-name="TR: PROTURK WESTERN" tvg-logo="https://i.hizliresim.com/VE6BDS.png" group-title="TR: ➤ProTurk Salon",TR: PROTURK WESTERN
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78898
+#EXTINF:-1 tvg-id="" tvg-name="TR: PROTURK NETFLiX" tvg-logo="https://i.hizliresim.com/TTJ9fC.png" group-title="TR: ➤ProTurk Salon",TR: PROTURK NETFLiX
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78899
+#EXTINF:-1 tvg-id="" tvg-name="TR: PROTURK 4K ULTRA" tvg-logo="https://i.hizliresim.com/UYPrI4.png" group-title="TR: ➤ProTurk Salon",TR: PROTURK 4K ULTRA
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78900
+#EXTINF:-1 tvg-id="" tvg-name="TR: PROTURK ORJiNAL" tvg-logo="https://i.hizliresim.com/wnYofg.png" group-title="TR: ➤ProTurk Salon",TR: PROTURK ORJiNAL
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78901
+#EXTINF:-1 tvg-id="" tvg-name="TR: PROTURK KEMAL SUNAL" tvg-logo="https://i.hizliresim.com/p5aC1O.png" group-title="TR: ➤ProTurk Salon",TR: PROTURK KEMAL SUNAL
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78902
+#EXTINF:-1 tvg-id="" tvg-name="TR: PROTURK YESiLCAM" tvg-logo="https://i.hizliresim.com/IShRtl.png" group-title="TR: ➤ProTurk Salon",TR: PROTURK YESiLCAM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78903
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMARTBOX KORKU" tvg-logo="https://i.hizliresim.com/P43YS1.png" group-title="TR: ➤ProTurk Salon",TR: SMARTBOX KORKU
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78924
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMARTBOX DRAM" tvg-logo="https://i.hizliresim.com/P43YS1.png" group-title="TR: ➤ProTurk Salon",TR: SMARTBOX DRAM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78925
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMARTBOX GERMANY" tvg-logo="https://i.hizliresim.com/P43YS1.png" group-title="TR: ➤ProTurk Salon",TR: SMARTBOX GERMANY
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78926
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMARTBOX FANTASTiC" tvg-logo="https://i.hizliresim.com/P43YS1.png" group-title="TR: ➤ProTurk Salon",TR: SMARTBOX FANTASTiC
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78927
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMARTBOX ACTiON" tvg-logo="https://i.hizliresim.com/P43YS1.png" group-title="TR: ➤ProTurk Salon",TR: SMARTBOX ACTiON
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78928
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMARTBOX MACERA" tvg-logo="https://i.hizliresim.com/P43YS1.png" group-title="TR: ➤ProTurk Salon",TR: SMARTBOX MACERA
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78929
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMARTBOX NETFLiX" tvg-logo="https://i.hizliresim.com/P43YS1.png" group-title="TR: ➤ProTurk Salon",TR: SMARTBOX NETFLiX
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78930
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMARTBOX SAVAS" tvg-logo="https://i.hizliresim.com/P43YS1.png" group-title="TR: ➤ProTurk Salon",TR: SMARTBOX SAVAS
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78931
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMARTBOX ROMANTiK" tvg-logo="https://i.hizliresim.com/P43YS1.png" group-title="TR: ➤ProTurk Salon",TR: SMARTBOX ROMANTiK
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78932
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMARTBOX GERiLiM" tvg-logo="https://i.hizliresim.com/P43YS1.png" group-title="TR: ➤ProTurk Salon",TR: SMARTBOX GERiLiM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78933
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMARTBOX COMEDY" tvg-logo="https://i.hizliresim.com/P43YS1.png" group-title="TR: ➤ProTurk Salon",TR: SMARTBOX COMEDY
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78934
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMARTBOX WESTERN" tvg-logo="https://i.hizliresim.com/P43YS1.png" group-title="TR: ➤ProTurk Salon",TR: SMARTBOX WESTERN
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78935
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMARTBOX YERLi" tvg-logo="https://i.hizliresim.com/P43YS1.png" group-title="TR: ➤ProTurk Salon",TR: SMARTBOX YERLi
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78936
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMARTBOX YESiLCAM" tvg-logo="https://i.hizliresim.com/P43YS1.png" group-title="TR: ➤ProTurk Salon",TR: SMARTBOX YESiLCAM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78937
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMARTBOX BiLiM KURGU" tvg-logo="https://i.hizliresim.com/P43YS1.png" group-title="TR: ➤ProTurk Salon",TR: SMARTBOX BiLiM KURGU
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78942
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMARTBOX ORJiNAL" tvg-logo="https://i.hizliresim.com/P43YS1.png" group-title="TR: ➤ProTurk Salon",TR: SMARTBOX ORJiNAL
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78943
+#EXTINF:-1 tvg-id="" tvg-name="TR: ARENABOX ACTiON" tvg-logo="https://i.hizliresim.com/qOnZ5C.png" group-title="TR: ➤ProTurk Salon",TR: ARENABOX ACTiON
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78944
+#EXTINF:-1 tvg-id="" tvg-name="TR: ARENABOX FANTASTiC" tvg-logo="https://i.hizliresim.com/U0aJqq.png" group-title="TR: ➤ProTurk Salon",TR: ARENABOX FANTASTiC
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78945
+#EXTINF:-1 tvg-id="" tvg-name="TR: ARENABOX BiLiM KURGU" tvg-logo="https://i.hizliresim.com/QtDAYX.png" group-title="TR: ➤ProTurk Salon",TR: ARENABOX BiLiM KURGU
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78946
+#EXTINF:-1 tvg-id="" tvg-name="TR: ARENABOX DRAM" tvg-logo="https://i.hizliresim.com/ci1EEL.png" group-title="TR: ➤ProTurk Salon",TR: ARENABOX DRAM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78947
+#EXTINF:-1 tvg-id="" tvg-name="TR: ARENABOX GERiLiM" tvg-logo="https://i.hizliresim.com/hdznDC.png" group-title="TR: ➤ProTurk Salon",TR: ARENABOX GERiLiM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78948
+#EXTINF:-1 tvg-id="" tvg-name="TR: ARENABOX COMEDY" tvg-logo="https://i.hizliresim.com/tHmC84.png" group-title="TR: ➤ProTurk Salon",TR: ARENABOX COMEDY
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78949
+#EXTINF:-1 tvg-id="" tvg-name="TR: ARENABOX KORKU" tvg-logo="https://i.hizliresim.com/RMBfjd.png" group-title="TR: ➤ProTurk Salon",TR: ARENABOX KORKU
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78950
+#EXTINF:-1 tvg-id="" tvg-name="TR: ARENABOX MACERA" tvg-logo="https://i.hizliresim.com/70vwbZ.png" group-title="TR: ➤ProTurk Salon",TR: ARENABOX MACERA
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78951
+#EXTINF:-1 tvg-id="" tvg-name="TR: ARENABOX ViZYON" tvg-logo="https://i.hizliresim.com/H7ErNi.png" group-title="TR: ➤ProTurk Salon",TR: ARENABOX ViZYON
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78952
+#EXTINF:-1 tvg-id="" tvg-name="TR: ARENABOX YERLi" tvg-logo="https://i.hizliresim.com/iv5Diy.png" group-title="TR: ➤ProTurk Salon",TR: ARENABOX YERLi
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78953
+#EXTINF:-1 tvg-id="" tvg-name="TR: ARENABOX YESILCAM" tvg-logo="https://i.hizliresim.com/rLSkBQ.png" group-title="TR: ➤ProTurk Salon",TR: ARENABOX YESILCAM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78954
+#EXTINF:-1 tvg-id="" tvg-name="TR: ARENEBOX KEMAL SUNAL" tvg-logo="https://i.hizliresim.com/NKz2uK.png" group-title="TR: ➤ProTurk Salon",TR: ARENEBOX KEMAL SUNAL
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78955
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEGABOX ACTiON" tvg-logo="https://i.hizliresim.com/I2BhAD.png" group-title="TR: ➤ProTurk Salon",TR: MEGABOX ACTiON
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78960
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMARTBOX KEMAL SUNAL" tvg-logo="https://i.hizliresim.com/P43YS1.png" group-title="TR: ➤ProTurk Salon",TR: SMARTBOX KEMAL SUNAL
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78938
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEGABOX FANTASTiC" tvg-logo="https://i.hizliresim.com/I2BhAD.png" group-title="TR: ➤ProTurk Salon",TR: MEGABOX FANTASTiC
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78961
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEGABOX BiLiMKURGU" tvg-logo="https://i.hizliresim.com/I2BhAD.png" group-title="TR: ➤ProTurk Salon",TR: MEGABOX BiLiMKURGU
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78962
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEGABOX KORKU" tvg-logo="https://i.hizliresim.com/I2BhAD.png" group-title="TR: ➤ProTurk Salon",TR: MEGABOX KORKU
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78963
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEGABOX COMEDi" tvg-logo="https://i.hizliresim.com/I2BhAD.png" group-title="TR: ➤ProTurk Salon",TR: MEGABOX COMEDi
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78964
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEGABOX DRAM" tvg-logo="https://i.hizliresim.com/I2BhAD.png" group-title="TR: ➤ProTurk Salon",TR: MEGABOX DRAM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78965
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEGABOX ViZYON" tvg-logo="https://i.hizliresim.com/I2BhAD.png" group-title="TR: ➤ProTurk Salon",TR: MEGABOX ViZYON
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78966
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEGABOX GOLD" tvg-logo="https://i.hizliresim.com/I2BhAD.png" group-title="TR: ➤ProTurk Salon",TR: MEGABOX GOLD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78967
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEGABOX MARVEL" tvg-logo="https://i.hizliresim.com/I2BhAD.png" group-title="TR: ➤ProTurk Salon",TR: MEGABOX MARVEL
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78968
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEGABOX NETFLiX" tvg-logo="https://i.hizliresim.com/I2BhAD.png" group-title="TR: ➤ProTurk Salon",TR: MEGABOX NETFLiX
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78969
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEGABOX WESTERN" tvg-logo="https://i.hizliresim.com/I2BhAD.png" group-title="TR: ➤ProTurk Salon",TR: MEGABOX WESTERN
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78970
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEGABOX YERLi" tvg-logo="https://i.hizliresim.com/I2BhAD.png" group-title="TR: ➤ProTurk Salon",TR: MEGABOX YERLi
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78971
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEGABOX YESiLCAM" tvg-logo="https://i.hizliresim.com/I2BhAD.png" group-title="TR: ➤ProTurk Salon",TR: MEGABOX YESiLCAM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78972
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAMBOX ACTiON" tvg-logo="https://i.hizliresim.com/mAOIrv.png" group-title="TR: ➤ProTurk Salon",TR: DREAMBOX ACTiON
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78976
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAMBOX BiLiM KURGU" tvg-logo="https://i.hizliresim.com/p3nXnS.png" group-title="TR: ➤ProTurk Salon",TR: DREAMBOX BiLiM KURGU
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78977
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAMBOX FANTASTiC" tvg-logo="https://i.hizliresim.com/KJfk5A.png" group-title="TR: ➤ProTurk Salon",TR: DREAMBOX FANTASTiC
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78978
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAMBOX COMEDY" tvg-logo="https://i.hizliresim.com/G9SpsA.png" group-title="TR: ➤ProTurk Salon",TR: DREAMBOX COMEDY
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78979
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAMBOX KORKU" tvg-logo="https://i.hizliresim.com/8Fut5e.png" group-title="TR: ➤ProTurk Salon",TR: DREAMBOX KORKU
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78980
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAMBOX DRAM" tvg-logo="https://i.hizliresim.com/f2RYiC.png" group-title="TR: ➤ProTurk Salon",TR: DREAMBOX DRAM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78981
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAMBOX MACERA" tvg-logo="https://i.hizliresim.com/RZMhgM.png" group-title="TR: ➤ProTurk Salon",TR: DREAMBOX MACERA
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78982
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAMBOX GERiLiM" tvg-logo="https://i.hizliresim.com/5JA1C7.png" group-title="TR: ➤ProTurk Salon",TR: DREAMBOX GERiLiM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78983
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAMBOX SAVAS" tvg-logo="https://i.hizliresim.com/lXwHzc.png" group-title="TR: ➤ProTurk Salon",TR: DREAMBOX SAVAS
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78984
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAMBOX ROMANTiC" tvg-logo="https://i.hizliresim.com/Ee0u1k.png" group-title="TR: ➤ProTurk Salon",TR: DREAMBOX ROMANTiC
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78985
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAMBOX NETFLiX" tvg-logo="https://i.hizliresim.com/qqsGh2.png" group-title="TR: ➤ProTurk Salon",TR: DREAMBOX NETFLiX
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78986
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAMBOX YERLi" tvg-logo="https://i.hizliresim.com/ZNutrg.png" group-title="TR: ➤ProTurk Salon",TR: DREAMBOX YERLi
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78987
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAMBOX KEMAL SUNAL" tvg-logo="https://i.hizliresim.com/yKI7TH.png" group-title="TR: ➤ProTurk Salon",TR: DREAMBOX KEMAL SUNAL
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78988
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAMBOX YESiLCAM" tvg-logo="https://i.hizliresim.com/03pSDi.png" group-title="TR: ➤ProTurk Salon",TR: DREAMBOX YESiLCAM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78989
+#EXTINF:-1 tvg-id="" tvg-name="TR: REALBOX ACTiON" tvg-logo="https://i.hizliresim.com/mWCRwl.png" group-title="TR: ➤ProTurk Salon",TR: REALBOX ACTiON
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78991
+#EXTINF:-1 tvg-id="" tvg-name="TR: REALBOX BiLiMKURGU" tvg-logo="https://i.hizliresim.com/yKRxFC.png" group-title="TR: ➤ProTurk Salon",TR: REALBOX BiLiMKURGU
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78993
+#EXTINF:-1 tvg-id="" tvg-name="TR: REALBOX COMEDY" tvg-logo="https://i.hizliresim.com/4KKbNh.png" group-title="TR: ➤ProTurk Salon",TR: REALBOX COMEDY
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78994
+#EXTINF:-1 tvg-id="" tvg-name="TR: REALBOX DRAM" tvg-logo="https://i.hizliresim.com/V0e3M0.png" group-title="TR: ➤ProTurk Salon",TR: REALBOX DRAM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78995
+#EXTINF:-1 tvg-id="" tvg-name="TR: REALBOX FANTASTiC" tvg-logo="https://i.hizliresim.com/ZAyKsu.png" group-title="TR: ➤ProTurk Salon",TR: REALBOX FANTASTiC
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78996
+#EXTINF:-1 tvg-id="" tvg-name="TR: REALBOX GERiLiM" tvg-logo="https://i.hizliresim.com/kp1b7u.png" group-title="TR: ➤ProTurk Salon",TR: REALBOX GERiLiM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78997
+#EXTINF:-1 tvg-id="" tvg-name="TR: REALBOX HiNT" tvg-logo="https://i.hizliresim.com/ssGpGQ.png" group-title="TR: ➤ProTurk Salon",TR: REALBOX HiNT
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/78999
+#EXTINF:-1 tvg-id="" tvg-name="TR: REALBOX KORKU" tvg-logo="https://i.hizliresim.com/GKXwU5.png" group-title="TR: ➤ProTurk Salon",TR: REALBOX KORKU
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79000
+#EXTINF:-1 tvg-id="" tvg-name="TR: REALBOX MACERA" tvg-logo="https://i.hizliresim.com/XcUwQc.png" group-title="TR: ➤ProTurk Salon",TR: REALBOX MACERA
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79001
+#EXTINF:-1 tvg-id="" tvg-name="TR: REALBOX ViZYON" tvg-logo="https://i.hizliresim.com/8ANutb.png" group-title="TR: ➤ProTurk Salon",TR: REALBOX ViZYON
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79002
+#EXTINF:-1 tvg-id="" tvg-name="TR: REALBOX WESTERN" tvg-logo="https://i.hizliresim.com/xtBMVK.png" group-title="TR: ➤ProTurk Salon",TR: REALBOX WESTERN
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79003
+#EXTINF:-1 tvg-id="" tvg-name="TR: REALBOX YERLi" tvg-logo="https://i.hizliresim.com/nu48XQ.png" group-title="TR: ➤ProTurk Salon",TR: REALBOX YERLi
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79004
+#EXTINF:-1 tvg-id="" tvg-name="TR: REALBOX YESiLCAM" tvg-logo="https://i.hizliresim.com/lEkCIS.png" group-title="TR: ➤ProTurk Salon",TR: REALBOX YESiLCAM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79005
+#EXTINF:-1 tvg-id="" tvg-name="TR: KiNGBOX ACTiON" tvg-logo="https://i.hizliresim.com/CDkOFl.png" group-title="TR: ➤ProTurk Salon",TR: KiNGBOX ACTiON
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79010
+#EXTINF:-1 tvg-id="" tvg-name="TR: KiNGBOX BiLiM KURGU" tvg-logo="https://i.hizliresim.com/OXO1Eb.png" group-title="TR: ➤ProTurk Salon",TR: KiNGBOX BiLiM KURGU
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79011
+#EXTINF:-1 tvg-id="" tvg-name="TR: KiNGBOX FANTASTiC" tvg-logo="https://i.hizliresim.com/5rab7u.png" group-title="TR: ➤ProTurk Salon",TR: KiNGBOX FANTASTiC
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79012
+#EXTINF:-1 tvg-id="" tvg-name="TR: KiNGBOX MACERA" tvg-logo="https://i.hizliresim.com/qznxDO.png" group-title="TR: ➤ProTurk Salon",TR: KiNGBOX MACERA
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79013
+#EXTINF:-1 tvg-id="" tvg-name="TR: KiNGBOX COMEDY" tvg-logo="https://i.hizliresim.com/15X5dw.png" group-title="TR: ➤ProTurk Salon",TR: KiNGBOX COMEDY
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79014
+#EXTINF:-1 tvg-id="" tvg-name="TR: KiNGBOX DRAM" tvg-logo="https://i.hizliresim.com/odrRiU.png" group-title="TR: ➤ProTurk Salon",TR: KiNGBOX DRAM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79015
+#EXTINF:-1 tvg-id="" tvg-name="TR: KiNGBOX YERLi" tvg-logo="https://i.hizliresim.com/I0BwMz.png" group-title="TR: ➤ProTurk Salon",TR: KiNGBOX YERLi
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79016
+#EXTINF:-1 tvg-id="" tvg-name="TR: KiNGBOX YESiLCAM" tvg-logo="https://i.hizliresim.com/6nKSAC.png" group-title="TR: ➤ProTurk Salon",TR: KiNGBOX YESiLCAM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79017
+#EXTINF:-1 tvg-id="" tvg-name="TR: KiNGBOX KEMAL SUNAL" tvg-logo="https://i.hizliresim.com/JxICd3.png" group-title="TR: ➤ProTurk Salon",TR: KiNGBOX KEMAL SUNAL
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79018
+#EXTINF:-1 tvg-id="" tvg-name="TR: GLOBALBOX ACTiON" tvg-logo="https://i.hizliresim.com/5dc8j2.png" group-title="TR: ➤ProTurk Salon",TR: GLOBALBOX ACTiON
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79020
+#EXTINF:-1 tvg-id="" tvg-name="TR: GLOBALBOX KORKU" tvg-logo="https://i.hizliresim.com/OSzJvd.png" group-title="TR: ➤ProTurk Salon",TR: GLOBALBOX KORKU
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79021
+#EXTINF:-1 tvg-id="" tvg-name="TR: GLOBALBOX FANTASTiC" tvg-logo="https://i.hizliresim.com/SSamUR.png" group-title="TR: ➤ProTurk Salon",TR: GLOBALBOX FANTASTiC
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79022
+#EXTINF:-1 tvg-id="" tvg-name="TR: GLOBALBOX COMEDY" tvg-logo="https://i.hizliresim.com/IGxXRZ.png" group-title="TR: ➤ProTurk Salon",TR: GLOBALBOX COMEDY
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79023
+#EXTINF:-1 tvg-id="" tvg-name="TR: GLOBALBOX DRAM" tvg-logo="https://i.hizliresim.com/O4B3i1.png" group-title="TR: ➤ProTurk Salon",TR: GLOBALBOX DRAM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79024
+#EXTINF:-1 tvg-id="" tvg-name="TR: GLOBALBOX ViZYON" tvg-logo="https://i.hizliresim.com/fgD2jS.png" group-title="TR: ➤ProTurk Salon",TR: GLOBALBOX ViZYON
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79025
+#EXTINF:-1 tvg-id="" tvg-name="TR: GLOBALBOX KEMAL SUNAL" tvg-logo="https://i.hizliresim.com/3cxIko.png" group-title="TR: ➤ProTurk Salon",TR: GLOBALBOX KEMAL SUNAL
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79026
+#EXTINF:-1 tvg-id="" tvg-name="TR: GLOBALBOX YERLi" tvg-logo="https://i.hizliresim.com/KAJTS3.png" group-title="TR: ➤ProTurk Salon",TR: GLOBALBOX YERLi
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79027
+#EXTINF:-1 tvg-id="" tvg-name="TR: GLOBALBOX YESiLCAM" tvg-logo="https://i.hizliresim.com/WGXII7.png" group-title="TR: ➤ProTurk Salon",TR: GLOBALBOX YESiLCAM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79028
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX ACTiON" tvg-logo="https://i.hizliresim.com/95PSWz.png" group-title="TR: ➤ProTurk Salon",TR: FILMBOX ACTiON
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79030
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX FANTASTiC" tvg-logo="https://i.hizliresim.com/95PSWz.png" group-title="TR: ➤ProTurk Salon",TR: FILMBOX FANTASTiC
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79031
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX FAMILY" tvg-logo="https://i.hizliresim.com/95PSWz.png" group-title="TR: ➤ProTurk Salon",TR: FILMBOX FAMILY
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79032
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX HORROR" tvg-logo="https://i.hizliresim.com/95PSWz.png" group-title="TR: ➤ProTurk Salon",TR: FILMBOX HORROR
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79033
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX COMEDY" tvg-logo="https://i.hizliresim.com/95PSWz.png" group-title="TR: ➤ProTurk Salon",TR: FILMBOX COMEDY
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79034
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX DRAM" tvg-logo="https://i.hizliresim.com/95PSWz.png" group-title="TR: ➤ProTurk Salon",TR: FILMBOX DRAM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79035
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX SCi-Fi" tvg-logo="https://i.hizliresim.com/95PSWz.png" group-title="TR: ➤ProTurk Salon",TR: FILMBOX SCi-Fi
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79036
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX YERLi" tvg-logo="https://i.hizliresim.com/95PSWz.png" group-title="TR: ➤ProTurk Salon",TR: FILMBOX YERLi
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79037
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX YESiLCAM" tvg-logo="https://i.hizliresim.com/95PSWz.png" group-title="TR: ➤ProTurk Salon",TR: FILMBOX YESiLCAM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79039
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX KEMAL SUNAL" tvg-logo="https://i.hizliresim.com/95PSWz.png" group-title="TR: ➤ProTurk Salon",TR: FILMBOX KEMAL SUNAL
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79038
+#EXTINF:-1 tvg-id="" tvg-name="TR: Neocine Action" tvg-logo="" group-title="TR: ➤ProTurk Salon",TR: Neocine Action
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79040
+#EXTINF:-1 tvg-id="" tvg-name="TR: Neocine Fantastic" tvg-logo="" group-title="TR: ➤ProTurk Salon",TR: Neocine Fantastic
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79041
+#EXTINF:-1 tvg-id="" tvg-name="TR: Neocine Korku" tvg-logo="" group-title="TR: ➤ProTurk Salon",TR: Neocine Korku
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79042
+#EXTINF:-1 tvg-id="" tvg-name="TR: Neocine Turk" tvg-logo="" group-title="TR: ➤ProTurk Salon",TR: Neocine Turk
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79043
+#EXTINF:-1 tvg-id="" tvg-name="TR: Neocine Western" tvg-logo="" group-title="TR: ➤ProTurk Salon",TR: Neocine Western
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79044
+#EXTINF:-1 tvg-id="" tvg-name="TR: Neocine Gold" tvg-logo="" group-title="TR: ➤ProTurk Salon",TR: Neocine Gold
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79045
+#EXTINF:-1 tvg-id="" tvg-name="TR: Neocine Netflix" tvg-logo="" group-title="TR: ➤ProTurk Salon",TR: Neocine Netflix
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79046
+#EXTINF:-1 tvg-id="" tvg-name="TR: Neocine  Yesilcam" tvg-logo="" group-title="TR: ➤ProTurk Salon",TR: Neocine  Yesilcam
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79047
+#EXTINF:-1 tvg-id="" tvg-name="TR: Neocine Christmast" tvg-logo="" group-title="TR: ➤ProTurk Salon",TR: Neocine Christmast
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79048
+#EXTINF:-1 tvg-id="" tvg-name="TR: HORRORBOX 1" tvg-logo="https://i.hizliresim.com/yHp3Bl.png" group-title="TR: ➤ProTurk Salon",TR: HORRORBOX 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79049
+#EXTINF:-1 tvg-id="" tvg-name="TR: HORRORBOX 2" tvg-logo="https://i.hizliresim.com/yHp3Bl.png" group-title="TR: ➤ProTurk Salon",TR: HORRORBOX 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79050
+#EXTINF:-1 tvg-id="" tvg-name="TR: HORRORBOX 3" tvg-logo="https://i.hizliresim.com/yHp3Bl.png" group-title="TR: ➤ProTurk Salon",TR: HORRORBOX 3
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79051
+#EXTINF:-1 tvg-id="" tvg-name="TR: HORRORBOX 4" tvg-logo="https://i.hizliresim.com/yHp3Bl.png" group-title="TR: ➤ProTurk Salon",TR: HORRORBOX 4
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79052
+#EXTINF:-1 tvg-id="" tvg-name="TR: HORRORBOX 5" tvg-logo="https://i.hizliresim.com/yHp3Bl.png" group-title="TR: ➤ProTurk Salon",TR: HORRORBOX 5
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/79053
+#EXTINF:-1 tvg-id="" tvg-name="##### TR ENO CINEMA #####" tvg-logo="https://www.enoviptv.com/wp-content/uploads/2020/11/eno100.png" group-title="TR➤ENO Vizyon Salon",##### TR ENO CINEMA #####
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/57701
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX YERLI 1" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya-5.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX YERLI 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82344
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX YERLI 2" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya-5.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX YERLI 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82345
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX YERLI 3" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya-5.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX YERLI 3
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82346
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX YERLI 4" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya-5.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX YERLI 4
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82347
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX YERLI 5" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya-5.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX YERLI 5
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82348
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX YERLI 6" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya-5.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX YERLI 6
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82349
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX YERLI 7" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya-5.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX YERLI 7
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82350
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX YERLI 8" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya-5.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX YERLI 8
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82351
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX YERLI 9" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya-5.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX YERLI 9
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82352
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX YERLI 10" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya-5.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX YERLI 10
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82353
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX 11" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX 11
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82354
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX 12" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX 12
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82355
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX 13" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX 13
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82356
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX 14" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX 14
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82357
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX 15" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX 15
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82358
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX 16" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX 16
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82359
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX 17" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX 17
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82360
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX 18" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX 18
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82361
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX 19" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX 19
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82362
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX 20" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX 20
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82363
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX 21" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX 21
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82364
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX 22" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX 22
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82365
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX 23" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX 23
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82366
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX 24" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX 24
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82367
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX 25" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX 25
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82368
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX 26" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX 26
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82369
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX 27" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX 27
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82370
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX 28" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX 28
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82371
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX 29" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX 29
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82372
+#EXTINF:-1 tvg-id="" tvg-name="BONUSTV NETFLIX 30" tvg-logo="https://www.linkpicture.com/q/580b57fcd9996e24bc43c529-Kopya.png" group-title="TR➤Bonus Tv Salon",BONUSTV NETFLIX 30
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/82373
+#EXTINF:-1 tvg-id="" tvg-name="EuroMedia Transformers 7/24" tvg-logo="" group-title="TR➤EuroMedia Salon",EuroMedia Transformers 7/24
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156141
+#EXTINF:-1 tvg-id="" tvg-name="EuroMedia Saw(Testere) 7/24" tvg-logo="" group-title="TR➤EuroMedia Salon",EuroMedia Saw(Testere) 7/24
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156142
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA SALON 1" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA SALON 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156143
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA SALON 2" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA SALON 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156144
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA SALON 3" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA SALON 3
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156145
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA SALON 4" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA SALON 4
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156146
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA SALON 5" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA SALON 5
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156147
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA SALON 6" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA SALON 6
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156148
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA SALON 7" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA SALON 7
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156149
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA SALON 8" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA SALON 8
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156150
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA SALON 9" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA SALON 9
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156151
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA SALON 10" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA SALON 10
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156152
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA AKSİYON 1" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA AKSİYON 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156153
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA AKSİYON 2" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA AKSİYON 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156154
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA AKSİYON 3" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA AKSİYON 3
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156155
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA AKSİYON 4" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA AKSİYON 4
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156156
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA AKSİYON 5" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA AKSİYON 5
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156157
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA BİLİMKURGU 1" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA BİLİMKURGU 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156158
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA BİLİMKURGU 2" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA BİLİMKURGU 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156159
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA BİLİMKURGU 3" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA BİLİMKURGU 3
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156160
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA BİLİMKURGU 4" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA BİLİMKURGU 4
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156161
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA BİLİMKURGU 5" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA BİLİMKURGU 5
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156162
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA SAVAŞ 1" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA SAVAŞ 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156163
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA SAVAŞ 2" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA SAVAŞ 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156164
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA SAVAŞ 3" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA SAVAŞ 3
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156165
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA SAVAŞ 4" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA SAVAŞ 4
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156166
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA SAVAŞ 5" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA SAVAŞ 5
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156167
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA YERLİ 1" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA YERLİ 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156168
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA YERLİ 2" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA YERLİ 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156169
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA YERLİ 4" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA YERLİ 4
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156170
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA YERLİ 3" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA YERLİ 3
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156171
+#EXTINF:-1 tvg-id="" tvg-name="EUROMEDİA YERLİ 5" tvg-logo="" group-title="TR➤EuroMedia Salon",EUROMEDİA YERLİ 5
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/156172
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 1 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX 1 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189399
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 2 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX 2 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189400
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 3 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX 3 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189401
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 4 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX 4 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189402
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 5 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX 5 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189403
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 6 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX 6 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189404
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 7 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX 7 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189405
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 8 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX 8 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189406
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 9 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX 9 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189407
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 10 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX 10 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189408
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 11 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX 11 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189409
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 12 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX 12 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189410
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 13 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX 13 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189411
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 14 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX 14 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189412
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 15 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX 15 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189413
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 16 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX 16 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189414
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 17 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX 17 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189415
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 18 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX 18 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189416
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 19 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX 19 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189417
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 20 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX 20 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189418
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 1 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Netflix 1 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189439
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 2 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Netflix 2 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189440
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 3 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Netflix 3 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189441
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 4 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Netflix 4 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189442
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 5 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Netflix 5 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189443
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 6 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Netflix 6 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189444
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 7 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Netflix 7 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189445
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 8 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Netflix 8 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189446
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 9 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Netflix 9 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189447
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 10 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Netflix 10 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189448
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 1 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Turk 1 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189429
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 2 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Turk 2 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189430
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 3 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Turk 3 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189431
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 4 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Turk 4 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189432
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 5 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Turk 5 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189433
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 6 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Turk 6 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189434
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 7 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Turk 7 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189435
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 8 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Turk 8 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189436
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 9 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Turk 9 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189437
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 10 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Turk 10 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189438
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 1 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX YESILCAM 1 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189419
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 2 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX YESILCAM 2 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189420
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 3 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX YESILCAM 3 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189421
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 4 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX YESILCAM 4 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189422
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 5 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX YESILCAM 5 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189423
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 6 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX YESILCAM 6 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189424
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 7 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX YESILCAM 7 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189425
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 8 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX YESILCAM 8 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189426
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 9 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX YESILCAM 9 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189427
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 10 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MAXBOX YESILCAM 10 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189428
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 1 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Cocuk 1 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189449
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 2 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Cocuk 2 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189450
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 3 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Cocuk 3 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189451
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 4 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Cocuk 4 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189452
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 5 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Cocuk 5 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189453
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 6 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Cocuk 6 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189454
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 7 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Cocuk 7 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189455
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 8 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Cocuk 8 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189456
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 9 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Cocuk 9 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189457
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 10 HD" tvg-logo="" group-title=" TR➤MaxBox Salon",TR: MaxBox Cocuk 10 HD
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/189458
+#EXTINF:-1 tvg-id="" tvg-name="DENGE KURTLAR VADİSİ 7/24" tvg-logo="https://www.resimupload.org/images/2021/05/09/kURTLARVADISI.md.png" group-title="TR➤Denge Cinema Salon",DENGE KURTLAR VADİSİ 7/24
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/207144
+#EXTINF:-1 tvg-id="" tvg-name="DENGE KURTLAR VADİSİ PUSU 7/24" tvg-logo="https://www.resimupload.org/images/2021/05/09/kurtlarvadisipusu.md.png" group-title="TR➤Denge Cinema Salon",DENGE KURTLAR VADİSİ PUSU 7/24
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/207145
+#EXTINF:-1 tvg-id="" tvg-name="DENGE E D H O 7/24" tvg-logo="https://www.resimupload.org/images/2021/05/09/edho.md.png" group-title="TR➤Denge Cinema Salon",DENGE E D H O 7/24
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/207146
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Yargı" tvg-logo="https://www.linkpicture.com/q/10_110.png" group-title="TR➤Denge Cinema Salon",D Sinema Yargı
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211190
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Konuşanlar" tvg-logo="https://www.linkpicture.com/q/konusanlar-1.png" group-title="TR➤Denge Cinema Salon",D Sinema Konuşanlar
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211200
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Guldur Guldur" tvg-logo="https://www.linkpicture.com/q/guldur-guldur.png" group-title="TR➤Denge Cinema Salon",D Sinema Guldur Guldur
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211238
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Bruc Lee" tvg-logo="https://www.linkpicture.com/q/9_110.png" group-title="TR➤Denge Cinema Salon",D Sinema Bruc Lee
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211191
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Jackie Chan" tvg-logo="https://www.linkpicture.com/q/jeckiechan.png" group-title="TR➤Denge Cinema Salon",D Sinema Jackie Chan
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211236
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema James Bound" tvg-logo="https://www.linkpicture.com/q/8_128.png" group-title="TR➤Denge Cinema Salon",D Sinema James Bound
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211192
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Hızlı Ve Öfkeli" tvg-logo="https://www.linkpicture.com/q/7_77.png" group-title="TR➤Denge Cinema Salon",D Sinema Hızlı Ve Öfkeli
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211193
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Star Wars" tvg-logo="https://www.linkpicture.com/q/6_190.png" group-title="TR➤Denge Cinema Salon",D Sinema Star Wars
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211194
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Harry Potter" tvg-logo="https://www.linkpicture.com/q/5_251.png" group-title="TR➤Denge Cinema Salon",D Sinema Harry Potter
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211195
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema X Men" tvg-logo="https://www.linkpicture.com/q/4_302.png" group-title="TR➤Denge Cinema Salon",D Sinema X Men
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211196
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Cennet Mahallesi" tvg-logo="https://www.linkpicture.com/q/14_66.png" group-title="TR➤Denge Cinema Salon",D Sinema Cennet Mahallesi
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211228
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Cüneyt Arkın" tvg-logo="https://www.linkpicture.com/q/3_402.png" group-title="TR➤Denge Cinema Salon",D Sinema Cüneyt Arkın
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211197
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Şener Şen" tvg-logo="https://www.linkpicture.com/q/2_578.png" group-title="TR➤Denge Cinema Salon",D Sinema Şener Şen
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211198
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Zeki Metin" tvg-logo="https://www.linkpicture.com/q/1_878.png" group-title="TR➤Denge Cinema Salon",D Sinema Zeki Metin
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211199
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Kadir İnanır" tvg-logo="https://www.linkpicture.com/q/11_109.png" group-title="TR➤Denge Cinema Salon",D Sinema Kadir İnanır
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211224
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema İbrahim Tatlıses" tvg-logo="https://www.linkpicture.com/q/12_102.png" group-title="TR➤Denge Cinema Salon",D Sinema İbrahim Tatlıses
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211225
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Ferdi Tayfur" tvg-logo="https://www.linkpicture.com/q/2_579.png" group-title="TR➤Denge Cinema Salon",D Sinema Ferdi Tayfur
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211226
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Kurtlar Vadisi SNM" tvg-logo="https://www.linkpicture.com/q/13_55.png" group-title="TR➤Denge Cinema Salon",D Sinema Kurtlar Vadisi SNM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211227
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Tarik Akan" tvg-logo="https://www.linkpicture.com/q/1_879.png" group-title="TR➤Denge Cinema Salon",D Sinema Tarik Akan
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211229
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Sadri Alisik" tvg-logo="https://www.linkpicture.com/q/15_29.png" group-title="TR➤Denge Cinema Salon",D Sinema Sadri Alisik
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211230
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema İlyas Salman" tvg-logo="https://www.linkpicture.com/q/16_39.png" group-title="TR➤Denge Cinema Salon",D Sinema İlyas Salman
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211231
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Turkan Soray" tvg-logo="https://www.linkpicture.com/q/SERİ2.png" group-title="TR➤Denge Cinema Salon",D Sinema Turkan Soray
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211233
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Kartal Tibet" tvg-logo="https://www.linkpicture.com/q/kartaltibet-1.png" group-title="TR➤Denge Cinema Salon",D Sinema Kartal Tibet
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211234
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Hülya Avşar" tvg-logo="https://www.linkpicture.com/q/kartaltibet-2.png" group-title="TR➤Denge Cinema Salon",D Sinema Hülya Avşar
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211235
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Yılmaz Güney" tvg-logo="https://www.linkpicture.com/q/yilmazguney.png" group-title="TR➤Denge Cinema Salon",D Sinema Yılmaz Güney
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211237
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Yerli" tvg-logo="https://www.linkpicture.com/q/19_12.png" group-title="TR➤Denge Cinema Salon",D Sinema Yerli
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211222
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Yerli 1" tvg-logo="https://www.linkpicture.com/q/20_6.png" group-title="TR➤Denge Cinema Salon",D Sinema Yerli 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211232
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Yerli 2" tvg-logo="https://www.linkpicture.com/q/21_1.png" group-title="TR➤Denge Cinema Salon",D Sinema Yerli 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211223
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Aksiyon" tvg-logo="https://www.linkpicture.com/q/1_877.png" group-title="TR➤Denge Cinema Salon",D Sinema Aksiyon
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211204
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Aksiyon 1" tvg-logo="https://www.linkpicture.com/q/2_577.png" group-title="TR➤Denge Cinema Salon",D Sinema Aksiyon 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211205
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Aksiyon 2" tvg-logo="https://www.linkpicture.com/q/3_401.png" group-title="TR➤Denge Cinema Salon",D Sinema Aksiyon 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211206
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Bilimkurgu" tvg-logo="https://www.linkpicture.com/q/7_72.png" group-title="TR➤Denge Cinema Salon",D Sinema Bilimkurgu
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211210
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Bilimkurgu 1" tvg-logo="https://www.linkpicture.com/q/8_127.png" group-title="TR➤Denge Cinema Salon",D Sinema Bilimkurgu 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211211
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Bilimkurgu 2" tvg-logo="https://www.linkpicture.com/q/9_109.png" group-title="TR➤Denge Cinema Salon",D Sinema Bilimkurgu 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211212
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Korku" tvg-logo="https://www.linkpicture.com/q/10_109.png" group-title="TR➤Denge Cinema Salon",D Sinema Korku
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211213
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Korku 1" tvg-logo="https://www.linkpicture.com/q/11_108.png" group-title="TR➤Denge Cinema Salon",D Sinema Korku 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211214
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Korku 2" tvg-logo="https://www.linkpicture.com/q/12_54.png" group-title="TR➤Denge Cinema Salon",D Sinema Korku 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211215
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Macera" tvg-logo="https://www.linkpicture.com/q/13_52.png" group-title="TR➤Denge Cinema Salon",D Sinema Macera
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211216
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Macera 1" tvg-logo="https://www.linkpicture.com/q/14_65.png" group-title="TR➤Denge Cinema Salon",D Sinema Macera 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211217
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Macera 2" tvg-logo="https://www.linkpicture.com/q/15_17.png" group-title="TR➤Denge Cinema Salon",D Sinema Macera 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211218
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Savaş" tvg-logo="https://www.linkpicture.com/q/16_17.png" group-title="TR➤Denge Cinema Salon",D Sinema Savaş
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211219
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Savaş 1" tvg-logo="https://www.linkpicture.com/q/17_23.png" group-title="TR➤Denge Cinema Salon",D Sinema Savaş 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211220
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Savaş 2" tvg-logo="https://www.linkpicture.com/q/18_15.png" group-title="TR➤Denge Cinema Salon",D Sinema Savaş 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211221
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Animasyon" tvg-logo="https://www.linkpicture.com/q/4_301.png" group-title="TR➤Denge Cinema Salon",D Sinema Animasyon
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211207
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Animasyon 1" tvg-logo="https://www.linkpicture.com/q/5_101.png" group-title="TR➤Denge Cinema Salon",D Sinema Animasyon 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211208
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Animasyon 2" tvg-logo="https://www.linkpicture.com/q/6_88.png" group-title="TR➤Denge Cinema Salon",D Sinema Animasyon 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211209
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Kemal Sunal" tvg-logo="https://www.linkpicture.com/q/22_35.png" group-title="TR➤Denge Cinema Salon",D Sinema Kemal Sunal
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211201
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Kemal Sunal 1" tvg-logo="https://www.linkpicture.com/q/23_2.png" group-title="TR➤Denge Cinema Salon",D Sinema Kemal Sunal 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211202
+#EXTINF:-1 tvg-id="" tvg-name="D Sinema Kemal Sunal 2" tvg-logo="https://www.linkpicture.com/q/24_3.png" group-title="TR➤Denge Cinema Salon",D Sinema Kemal Sunal 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/211203
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOON MOVIE 4K" tvg-logo="https://i.imgur.com/i8XVDGJ.png" group-title=" TR➤MoonVizyon Salon",TR: MOON MOVIE 4K
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202548
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOON MOVIE AiLE" tvg-logo="https://i.imgur.com/i8XVDGJ.png" group-title=" TR➤MoonVizyon Salon",TR: MOON MOVIE AiLE
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202549
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOON MOVIE AKSiYON" tvg-logo="https://i.imgur.com/i8XVDGJ.png" group-title=" TR➤MoonVizyon Salon",TR: MOON MOVIE AKSiYON
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202550
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOON MOVIE ANIMASYON" tvg-logo="https://i.imgur.com/i8XVDGJ.png" group-title=" TR➤MoonVizyon Salon",TR: MOON MOVIE ANIMASYON
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202551
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOON MOVIE BiLiM KURGU" tvg-logo="https://i.imgur.com/i8XVDGJ.png" group-title=" TR➤MoonVizyon Salon",TR: MOON MOVIE BiLiM KURGU
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202552
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOON MOVIE DRAM" tvg-logo="https://i.imgur.com/i8XVDGJ.png" group-title=" TR➤MoonVizyon Salon",TR: MOON MOVIE DRAM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202553
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOON MOVIE FANTASTiK" tvg-logo="https://i.imgur.com/i8XVDGJ.png" group-title=" TR➤MoonVizyon Salon",TR: MOON MOVIE FANTASTiK
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202554
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOON MOVIE GERiLiM" tvg-logo="https://i.imgur.com/i8XVDGJ.png" group-title=" TR➤MoonVizyon Salon",TR: MOON MOVIE GERiLiM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202555
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOON MOVIE GiZEM" tvg-logo="https://i.imgur.com/i8XVDGJ.png" group-title=" TR➤MoonVizyon Salon",TR: MOON MOVIE GiZEM
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202556
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOON MOVIE HINT" tvg-logo="https://i.imgur.com/i8XVDGJ.png" group-title=" TR➤MoonVizyon Salon",TR: MOON MOVIE HINT
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202557
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOON MOVIE JASON" tvg-logo="https://i.imgur.com/i8XVDGJ.png" group-title=" TR➤MoonVizyon Salon",TR: MOON MOVIE JASON
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202558
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOON MOVIE KOMEDi" tvg-logo="https://i.imgur.com/i8XVDGJ.png" group-title=" TR➤MoonVizyon Salon",TR: MOON MOVIE KOMEDi
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202559
+#EXTINF:-1 tvg-id="" tvg-name="TR:  MOON MOVIE KORE" tvg-logo="https://i.imgur.com/i8XVDGJ.png" group-title=" TR➤MoonVizyon Salon",TR:  MOON MOVIE KORE
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202560
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOON MOVIE KORKU" tvg-logo="https://i.imgur.com/i8XVDGJ.png" group-title=" TR➤MoonVizyon Salon",TR: MOON MOVIE KORKU
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202561
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOON MOVIE NETFLIX" tvg-logo="https://i.imgur.com/i8XVDGJ.png" group-title=" TR➤MoonVizyon Salon",TR: MOON MOVIE NETFLIX
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202562
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOON MOVIE ORIGINAL" tvg-logo="https://i.imgur.com/i8XVDGJ.png" group-title=" TR➤MoonVizyon Salon",TR: MOON MOVIE ORIGINAL
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202563
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOON MOVIE TR" tvg-logo="https://i.imgur.com/i8XVDGJ.png" group-title=" TR➤MoonVizyon Salon",TR: MOON MOVIE TR
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202564
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOON MOVIE WESTERN" tvg-logo="https://i.imgur.com/i8XVDGJ.png" group-title=" TR➤MoonVizyon Salon",TR: MOON MOVIE WESTERN
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202565
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOON MOVIE YERLi" tvg-logo="https://i.imgur.com/i8XVDGJ.png" group-title=" TR➤MoonVizyon Salon",TR: MOON MOVIE YERLi
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202566
+#EXTINF:-1 tvg-id="" tvg-name="TR: ViZYONTV FILMMIX 1" tvg-logo="" group-title=" TR➤MoonVizyon Salon",TR: ViZYONTV FILMMIX 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202567
+#EXTINF:-1 tvg-id="" tvg-name="TR: ViZYONTV FILMMIX 2" tvg-logo="" group-title=" TR➤MoonVizyon Salon",TR: ViZYONTV FILMMIX 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202568
+#EXTINF:-1 tvg-id="" tvg-name="TR: ViZYONTV FILMMIX 3" tvg-logo="" group-title=" TR➤MoonVizyon Salon",TR: ViZYONTV FILMMIX 3
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202569
+#EXTINF:-1 tvg-id="" tvg-name="TR: ViZYONTV FILMMIX 4" tvg-logo="" group-title=" TR➤MoonVizyon Salon",TR: ViZYONTV FILMMIX 4
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202570
+#EXTINF:-1 tvg-id="" tvg-name="TR: ViZYONTV FILMMIX 5" tvg-logo="" group-title=" TR➤MoonVizyon Salon",TR: ViZYONTV FILMMIX 5
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202571
+#EXTINF:-1 tvg-id="" tvg-name="TR: ViZYONTV KOREMIX 1" tvg-logo="" group-title=" TR➤MoonVizyon Salon",TR: ViZYONTV KOREMIX 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202572
+#EXTINF:-1 tvg-id="" tvg-name="TR: ViZYONTV KOREMIX 2" tvg-logo="" group-title=" TR➤MoonVizyon Salon",TR: ViZYONTV KOREMIX 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202573
+#EXTINF:-1 tvg-id="" tvg-name="TR: ViZYONTV NEW WESTERN" tvg-logo="" group-title=" TR➤MoonVizyon Salon",TR: ViZYONTV NEW WESTERN
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202574
+#EXTINF:-1 tvg-id="" tvg-name="TR: ViZYONTV WESTERN" tvg-logo="" group-title=" TR➤MoonVizyon Salon",TR: ViZYONTV WESTERN
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202575
+#EXTINF:-1 tvg-id="" tvg-name="TR: ViZYONTV NEW KOMEDIMIX" tvg-logo="" group-title=" TR➤MoonVizyon Salon",TR: ViZYONTV NEW KOMEDIMIX
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202576
+#EXTINF:-1 tvg-id="" tvg-name="TR: ViZYONTV KOMEDIMIX" tvg-logo="" group-title=" TR➤MoonVizyon Salon",TR: ViZYONTV KOMEDIMIX
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202577
+#EXTINF:-1 tvg-id="" tvg-name="TR: ViZYONTV TURK MIX" tvg-logo="" group-title=" TR➤MoonVizyon Salon",TR: ViZYONTV TURK MIX
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/202578
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 1" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO ViZYON 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212401
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 2" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO ViZYON 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212402
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 3" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO ViZYON 3
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212403
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 4" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO ViZYON 4
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212404
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 5" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO ViZYON 5
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212405
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 6" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO ViZYON 6
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212406
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 7" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO ViZYON 7
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212407
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 8" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO ViZYON 8
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212408
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 9" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO ViZYON 9
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212409
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 10" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO ViZYON 10
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212410
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 11" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO ViZYON 11
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212411
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 12" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO ViZYON 12
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212412
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 13" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO ViZYON 13
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212413
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 14" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO ViZYON 14
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212414
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 15" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO ViZYON 15
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212415
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO TURK" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO TURK
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212416
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO TURK 2" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO TURK 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212417
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENOFLIX 1" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENOFLIX 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212418
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENOFLIX 2" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENOFLIX 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212419
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO NETFLIX 1" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO NETFLIX 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212420
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO NETFLIX 2" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO NETFLIX 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212421
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO NETFLIX 3" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO NETFLIX 3
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212422
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO MACERA 1" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO MACERA 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212423
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO MACERA 2" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO MACERA 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212424
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO MACERA 3" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO MACERA 3
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212425
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO WESTERN" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENO WESTERN
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212426
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 1" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212427
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 2" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212428
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 3" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON 3
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212429
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 4" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON 4
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212430
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 5" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON 5
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212431
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 6" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON 6
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212432
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 7" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON 7
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212433
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 8" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON 8
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212434
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 9" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON 9
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212435
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 10" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON 10
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212436
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 11" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON 11
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212437
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 12" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON 12
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212438
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 13" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON 13
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212439
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 14" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON 14
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212440
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 15" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON 15
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212441
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 16" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON 16
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212442
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 18" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON 18
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212443
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 17" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON 17
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212444
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 19" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON 19
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212445
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 20" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON 20
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212446
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 1" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON TURK 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212447
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 2" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON TURK 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212448
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 3" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON TURK 3
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212449
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 4" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON TURK 4
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212450
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 5" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON TURK 5
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212451
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 6" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON TURK 6
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212452
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 7" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON TURK 7
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212453
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 8" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON TURK 8
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212454
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 9" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON TURK 9
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212455
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 10" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] SINEVIZYON TURK 10
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212456
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 1" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] MULTIVIZYON 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212457
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 2" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] MULTIVIZYON 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212458
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 3" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] MULTIVIZYON 3
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212459
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 4" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] MULTIVIZYON 4
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212460
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 5" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] MULTIVIZYON 5
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212461
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 6" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] MULTIVIZYON 6
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212462
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 7" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] MULTIVIZYON 7
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212463
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 8" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] MULTIVIZYON 8
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212464
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 9" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] MULTIVIZYON 9
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212465
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 10" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] MULTIVIZYON 10
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212466
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 11" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] MULTIVIZYON 11
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212467
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 12" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] MULTIVIZYON 12
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212468
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 13" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] MULTIVIZYON 13
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212469
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 14" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] MULTIVIZYON 14
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212470
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 15" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] MULTIVIZYON 15
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212471
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 16" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] MULTIVIZYON 16
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212472
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 17" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] MULTIVIZYON 17
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212473
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 18" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] MULTIVIZYON 18
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212474
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 19" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] MULTIVIZYON 19
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212475
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 20" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] MULTIVIZYON 20
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212476
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENOFLIX 1" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENOFLIX 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212477
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENOFLIX 2" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENOFLIX 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212478
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENOFLIX 3" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENOFLIX 3
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212479
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENOFLIX 4" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENOFLIX 4
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212480
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENOFLIX 5" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENOFLIX 5
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212481
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENOFLIX 6" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENOFLIX 6
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212482
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENOFLIX 7" tvg-logo="" group-title="TR➤ENO Vizyon Salon",[TR] ENOFLIX 7
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/212483
+#EXTINF:-1 tvg-id="" tvg-name="Fast Aile 1002" tvg-logo="" group-title="TR➤FastCinema Salon",Fast Aile 1002
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/215312
+#EXTINF:-1 tvg-id="" tvg-name="Fast Aile 1002 2" tvg-logo="" group-title="TR➤FastCinema Salon",Fast Aile 1002 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/215313
+#EXTINF:-1 tvg-id="" tvg-name="Fast Aksiyon" tvg-logo="" group-title="TR➤FastCinema Salon",Fast Aksiyon
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/215314
+#EXTINF:-1 tvg-id="" tvg-name="Fast Aksiyon 2" tvg-logo="" group-title="TR➤FastCinema Salon",Fast Aksiyon 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/215315
+#EXTINF:-1 tvg-id="" tvg-name="Fast Vizyon" tvg-logo="" group-title="TR➤FastCinema Salon",Fast Vizyon
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/215316
+#EXTINF:-1 tvg-id="" tvg-name="Fast Animasyon" tvg-logo="" group-title="TR➤FastCinema Salon",Fast Animasyon
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/215317
+#EXTINF:-1 tvg-id="" tvg-name="Fast Bilimkurgu" tvg-logo="" group-title="TR➤FastCinema Salon",Fast Bilimkurgu
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/215318
+#EXTINF:-1 tvg-id="" tvg-name="Fast Premiere 1" tvg-logo="" group-title="TR➤FastCinema Salon",Fast Premiere 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/215319
+#EXTINF:-1 tvg-id="" tvg-name="Fast Premiere 2" tvg-logo="" group-title="TR➤FastCinema Salon",Fast Premiere 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/215320
+#EXTINF:-1 tvg-id="" tvg-name="Fast Western" tvg-logo="" group-title="TR➤FastCinema Salon",Fast Western
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/215321
+#EXTINF:-1 tvg-id="" tvg-name="Fast Komedi" tvg-logo="" group-title="TR➤FastCinema Salon",Fast Komedi
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/215322
+#EXTINF:-1 tvg-id="" tvg-name="Fast Komedi 2" tvg-logo="" group-title="TR➤FastCinema Salon",Fast Komedi 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/215323
+#EXTINF:-1 tvg-id="" tvg-name="Fast Non Stop 10" tvg-logo="" group-title="TR➤FastCinema Salon",Fast Non Stop 10
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/215324
+#EXTINF:-1 tvg-id="" tvg-name="Fast Non Stop 9" tvg-logo="" group-title="TR➤FastCinema Salon",Fast Non Stop 9
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/215325
+#EXTINF:-1 tvg-id="" tvg-name="Fast Non Stop 6" tvg-logo="" group-title="TR➤FastCinema Salon",Fast Non Stop 6
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/215326
+#EXTINF:-1 tvg-id="" tvg-name="Fast Non Stop 5" tvg-logo="" group-title="TR➤FastCinema Salon",Fast Non Stop 5
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/215327
+#EXTINF:-1 tvg-id="" tvg-name="Fast Non Stop 2" tvg-logo="" group-title="TR➤FastCinema Salon",Fast Non Stop 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/215328
+#EXTINF:-1 tvg-id="" tvg-name="TR➤Fast  Kadir İnanır 2" tvg-logo="" group-title="TR➤FastCinema Salon",TR➤Fast  Kadir İnanır 2
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/215329
+#EXTINF:-1 tvg-id="" tvg-name="TR➤Fast Kadir İnanır 1" tvg-logo="" group-title="TR➤FastCinema Salon",TR➤Fast Kadir İnanır 1
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/215330
+#EXTINF:-1 tvg-id="" tvg-name="Fast Exxen" tvg-logo="" group-title="TR➤FastCinema Salon",Fast Exxen
+http://peros23021832.euromediaserver.tk:80/deniz74/deniz7474/215331
