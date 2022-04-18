@@ -7,3 +7,9 @@ https://59cba4d34b678.streamlock.net/canlitv/torbatv/chunklist_w1944453121.m3u8
 https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 #EXTINF :-1,TR:TRT
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF : -1,TR : VİZYON TV 1
+https://cdn-vizyontv.yayin.com.tr/vizyon1/tracks-v1a1/mono.m3u8
+#EXTINF :-1,TR : VİZYON TV 2 
+https://cdn-vizyontv.yayin.com.tr/vizyon2/tracks-v1a1/mono.m3u8
+#EXTINF :-1,TR : VİZYON TV 3
+https://cdn-vizyontv.yayin.com.tr/vizyon3/tracks-v1a1/mono.m3u8
