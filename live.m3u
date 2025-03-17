@@ -7,8 +7,8 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 https://canli.cine6tv.com.tr:3614/stream/play.m3u8
 #EXTINF:-1 tvg-name="Meclis TV"tvg-id="Meclis TV.tr"tvg-logo="https://seeklogo.com/images/T/tbmm-logo-9FB0F2818C-seeklogo.com.png"group-title="Ulusal":http-referrer="":http-user-agent="",Meclis TV
 https://canli.cine6tv.com.tr:3614/stream/play.m3u8
-#EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT 1.tr"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png"group-title="Ulusal":http-referrer="":http-user-agent="",TRT 1
-https://tgn.bozztv.com/dvrfl05/gin-trt1eu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="CİNE6MAX"tvg-id="TRT 1.tr"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png"group-title="Ulusal":http-referrer="":http-user-agent="",TRT 1
+https://ip100.radyotelekomtv.com:3220/stream/play.m3u8
 #EXTINF:-1 tvg-name="TRT 2"tvg-id="TRT 2.tr"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027954.png"group-title="Ulusal":http-referrer="":http-user-agent="",TRT 2
 http://buytvplay.xyz:8080/Metin080808/GPRDx4uPER/186242
 #EXTINF:-1 tvg-name="TRT Türk"tvg-id="TRT Turk.tr"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11787778.png"group-title="Ulusal":http-referrer="":http-user-agent="",TRT Türk
